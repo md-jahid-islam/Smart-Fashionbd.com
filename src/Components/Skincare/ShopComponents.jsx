@@ -2,75 +2,60 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const ShopComponents = () => {
-  // Skin Types Data
-  const skinTypes = [
-    { img: '/images/damaged.png', name: 'Damaged' },
-    { img: '/images/cambination.png', name: 'Combination' },
-    { img: '/images/Normal1.png', name: 'Normal' },
-    { img: '/images/oily.png', name: 'Oily' },
-    { img: '/images/dry.png', name: 'Dry' },
-    { img: '/images/sensitive.png', name: 'Sensitive' },
-  ];
+  
 
   // Skin Concerns Data
   const skinConcerns = [
-    { img: '/images/pimples.png', name: 'Pimples' },
-    { img: '/images/brighthing.png', name: 'Brightening' },
-    { img: '/images/anti.png', name: 'Anti-Aging' },
-    { img: '/images/blackheads.png', name: 'Blackheads' },
-    { img: '/images/oil.png', name: 'Oil Control' },
-    { img: '/images/sun.png', name: 'Sun Protection' },
-    { img: '/images/spot.png', name: 'Spots' },
-    { img: '/images/dark.png', name: 'Dark Circles' },
-    { img: '/images/dehydaretions.png', name: 'Dehydration' },
+    { img: '', name: 'Pimples' },
+    { img: '', name: 'Brightening' },
+    { img: '', name: 'Anti-Aging' },
+    { img: '', name: 'Blackheads' },
+    { img: '', name: 'Oil Control' },
+    { img: '', name: 'Sun Protection' },
+    { img: '', name: 'Spots' },
+    { img: '', name: 'Dark Circles' },
+    { img: '', name: 'Dehydration' },
   ];
 
   return (
-    <nav>
-      <div className="container mx-auto px-4">
-        {/* Skin Type Section */}
-        <div className="text-center pt-5">
-          <h2 className="text-2xl font-bold underline">Shop by Skin Type!</h2>
-        </div>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5 pt-10 justify-center">
-          {skinTypes.map((item, index) => (
-            <Link
-              to=""
-              key={index}
-              className="flex flex-col items-center text-center hover:scale-105 transition-transform duration-300"
-            >
-              <img
-                className="w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 rounded-3xl shadow-lg hover:shadow-xl"
-                src={item.img}
-                alt={item.name}
-              />
-              <p className="mt-2 font-medium">{item.name}</p>
-            </Link>
-          ))}
-        </div>
+    <>
+   
+     <nav>
+          <div className="container mx-auto px-4">
+            {/* Title */}
+            <div className="flex justify-center pt-5">
+              <h2 className="text-2xl font-bold underline text-center">
+              Shop by Skin Type!
+              </h2>
+            </div>
+    
+            {/* Categories Grid */}
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 pt-10 justify-center">
+              <Link className=' ' to={"/Damaged"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/damaged.png" alt="img" />damaged</Link>
+              <Link className=' ' to={"/Cambination"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/cambination.png" alt="img" />cambination</Link>
+              <Link className=' ' to={"/Normal"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/Normal1.png" alt="img" />Normal</Link>
+              <Link className=' ' to={"/Oily"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/oily.png" alt="img" />oily</Link> 
+              <Link className=' ' to={"/Sensitive"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/sensitive.png" alt="img" />sensitive</Link>
+                <Link className=' ' to={"/Dry"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/dry.png" alt="img" />dry</Link>
+            </div>
+            <div className=' '>
+                <h2 className=' flex justify-center items-center text-2xl font-bold underline pt-5'> Shop by Skin Concern</h2>
+                <div className=' grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 pt-10 justify-center'>
+              <Link className=' ' to={"/Pimples"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/pimples.png" alt="img" />pimples</Link>
+              <Link className=' ' to={"/Brightening"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/brighthing.png" alt="img" />Brightening</Link>
+              <Link className=' ' to={"/Anti"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/Anti.png" alt="img" />Anti</Link>
+              <Link className=' ' to={"/Blackheads"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/blackheads.png" alt="img" />blackheads</Link>
+              <Link className=' ' to={"/Oil"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/oil.png" alt="img" />oil</Link>
+              <Link className=' ' to={"/Sun"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/sun.png" alt="img" />sun</Link>
+              <Link className=' ' to={"/Spot"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/spot.png" alt="img" />spot</Link>
+              <Link className=' ' to={"/Dark"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/dark.png" alt="img" />dark</Link>
+              <Link className=' ' to={"/Dehydaretions"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/dehydaretions.png" alt="img" />dehydaretions</Link>
 
-        {/* Skin Concern Section */}
-        <div className="text-center pt-10">
-          <h2 className="text-2xl font-bold underline">Shop by Skin Concern!</h2>
-        </div>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-5 pt-10 justify-center">
-          {skinConcerns.map((item, index) => (
-            <Link
-              to=""
-              key={index}
-              className="flex flex-col items-center text-center hover:scale-105 transition-transform duration-300"
-            >
-              <img
-                className="w-32 h-36 md:w-40 md:h-44 lg:w-44 lg:h-48 rounded-3xl shadow-lg hover:shadow-xl"
-                src={item.img}
-                alt={item.name}
-              />
-              <p className="mt-2 font-medium">{item.name}</p>
-            </Link>
-          ))}
-        </div>
-      </div>
-    </nav>
+                </div>
+              </div>
+          </div>
+        </nav>
+    </>
   );
 };
 

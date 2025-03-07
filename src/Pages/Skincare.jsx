@@ -4,15 +4,16 @@ import BannerComponents from '../Components/Skincare/BannerComponents'
 import ShopComponents from '../Components/Skincare/ShopComponents'
 import FooterComponents from '../Components/Skincare/FooterComponents'
 import ComboComponents from '../Components/Skincare/ComboComponents'
+import DealDayComponents from '../Components/Skincare/DealDayComponents'
 
 const Skincare = () => {
   return (
     <>
     <BannerComponents/>
-
    <SkincareComponents/>
    < ShopComponents/>
    <ComboComponents/>
+   <DealDayComponents/>
    <FooterComponents/>
 
   </>
