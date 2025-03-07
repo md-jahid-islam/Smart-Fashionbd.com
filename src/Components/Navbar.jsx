@@ -16,7 +16,6 @@ import { FaSearch, FaShoppingCart, FaUser } from "react-icons/fa";
             <Link className="text-2xl font-bold text-gray-900" to="/">
              Smart Fashionbd.com
             </Link>
-
             {/* Search Bar */}
             <div className="relative hidden md:flex items-center w-full max-w-md">
               <input
