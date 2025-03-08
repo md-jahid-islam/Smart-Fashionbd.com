@@ -11,35 +11,27 @@ const SerumComponents = () => {
     name: "serum",
     originalPrice: 550,
     discountedPrice: 460,
-    image: "/images/serum.png"
+    image: "/images/serum16.png"
 },
 {
   id: 2,
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum14.png"
 },{
   id: 2,
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum1.png"
 },
 {
   id: 2,
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum2.png"
 },
 
 {
@@ -47,7 +39,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum3.png"
 },
 
 {
@@ -55,7 +47,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum4.png"
 },
 
 {
@@ -63,7 +55,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum5.png"
 },
 
 {
@@ -71,7 +63,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum6.png"
 },
 
 {
@@ -79,7 +71,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum7.png"
 },
 
 {
@@ -87,7 +79,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum8.png"
 },
 
 {
@@ -95,7 +87,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum9.png"
 },
 
 {
@@ -103,7 +95,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum10.png"
 },
 
 {
@@ -111,7 +103,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum11.png"
 },
 
 {
@@ -119,7 +111,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum12.png"
 },
 
 {
@@ -127,7 +119,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum13.png"
 },
 
 {
@@ -135,7 +127,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum14.png"
 },
 
 {
@@ -143,7 +135,7 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum15.png"
 },
 
 {
@@ -151,7 +143,15 @@ const SerumComponents = () => {
   name: "serum",
   originalPrice: 550,
   discountedPrice: 460,
-  image: "/images/serum.png"
+  image: "/images/serum16.png"
+},
+
+{
+  id: 2,
+  name: "serum",
+  originalPrice: 550,
+  discountedPrice: 460,
+  image: "/images/serum17.png"
 },
 
 {
@@ -159,7 +159,7 @@ const SerumComponents = () => {
     name: "vitamin",
     originalPrice: 600,
     discountedPrice: 530,
-    image: "/images/serum17.png"
+    image: "/images/serum18.png"
 }
       
     ];
@@ -172,7 +172,7 @@ const SerumComponents = () => {
                 <h3 className='underline font-bold text-2xl'>Deal Of The Day</h3>
             </div>
             <div className='flex flex-wrap justify-center gap-7 mt-10'>
-                {products.map(product => (
+                {products.map(product => ( 
                     <div key={product.id} className='relative group w-56 h-96 bg-white shadow-lg rounded-3xl p-4 flex flex-col justify-between'>
                         <div className='relative'>
                             <img className='w-full h-40 rounded-2xl object-cover' src={product.image} alt={product.name} />
