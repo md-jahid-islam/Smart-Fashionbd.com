@@ -5,17 +5,6 @@ const ShopComponents = () => {
   
 
   // Skin Concerns Data
-  const skinConcerns = [
-    { img: '', name: 'Pimples' },
-    { img: '', name: 'Brightening' },
-    { img: '', name: 'Anti-Aging' },
-    { img: '', name: 'Blackheads' },
-    { img: '', name: 'Oil Control' },
-    { img: '', name: 'Sun Protection' },
-    { img: '', name: 'Spots' },
-    { img: '', name: 'Dark Circles' },
-    { img: '', name: 'Dehydration' },
-  ];
 
   return (
     <>

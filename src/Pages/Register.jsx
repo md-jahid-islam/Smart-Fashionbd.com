@@ -1,8 +1,12 @@
 import React from 'react'
+import RegisterComponents from '../Components/RegisterComponents'
 
 const Register = () => {
   return (
-    <div>Register</div>
+    <>
+    < RegisterComponents/>
+    
+    </>
   )
 }
 

@@ -21,11 +21,11 @@ const BannerComponents = () => {
         loop
         className="w-full h-[180px] md:h-[370px] "
       >
-        <SwiperSlide>
+        <SwiperSlide> 
           <img src="/images/banner1.jpg" alt="Banner 1" className="w-full h-full object-cover" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/images/banner2.jpg" alt="Banner 2" className="w-full h-full object-cover" />
+          <img src="/images/banner6.png" alt="Banner 2" className="w-full h-full object-cover" />
         </SwiperSlide>
         <SwiperSlide>
           <img src="/images/banner3.jpg" alt="Banner 2" className="w-full h-full object-cover" />

@@ -14,7 +14,7 @@ import { FaSearch, FaShoppingCart, FaUser } from "react-icons/fa";
           <div className="flex justify-between items-center py-4">
             {/* Logo */}
             <Link className="text-2xl font-bold text-gray-900" to="/">
-             Smart Fashionbd.com
+           Korian Smart Fashion
             </Link>
             {/* Search Bar */}
             <div className="relative hidden md:flex items-center w-full max-w-md">
