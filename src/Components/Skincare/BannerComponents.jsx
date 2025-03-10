@@ -10,7 +10,7 @@ const BannerComponents = () => {
   return (
    <>
    
-   <div className="">
+   <div className=" mt-[133px] ">
       <Swiper
         modules={[Navigation, Pagination, Autoplay]}
         spaceBetween={10}

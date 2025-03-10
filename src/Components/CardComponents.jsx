@@ -5,7 +5,7 @@ import AOS from 'aos';
 
 const CardComponents = () => {
   React.useEffect(() => {
-    AOS.init({ duration: 1000 });
+    AOS.init({ duration: 2000 });
   }, []);
 
   return (
