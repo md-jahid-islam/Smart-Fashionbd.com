@@ -1,8 +1,14 @@
 import React from 'react'
+import SaleComponents from '../Components/Sale/SaleComponents'
 
 const Sale = () => {
   return (
-    <div>Sale</div>
+ <>
+ 
+ <SaleComponents/>
+ 
+ </>
+
   )
 }
 

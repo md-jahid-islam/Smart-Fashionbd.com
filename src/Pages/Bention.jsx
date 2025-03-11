@@ -1,11 +1,13 @@
 import React from 'react'
-import BentionComponents from '../Components/BentionComponents'
+import BentioComponents from '../Components/Bention/BentionComponents'
 
 const Bention = () => {
   return (
     <>
-    <BentionComponents/>
-
+    
+    <BentioComponents/>
+    
+    
     </>
   )
 }

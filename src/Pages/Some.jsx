@@ -1,12 +1,14 @@
 import React from 'react'
-import SomeComponents from '../Components/SomeComponents'
+import SomeComponents from '../Components/Some/SomeComponents'
 
 const Some = () => {
   return (
-    <>
-    <SomeComponents/>
-    
-    </>
+ <>
+ 
+ <SomeComponents/>
+
+ </>
+
   )
 }
 

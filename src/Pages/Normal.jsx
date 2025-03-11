@@ -1,12 +1,13 @@
 import React from 'react'
-import NormalComponents from '../Components/NormalComponents'
+import NormalComopnets from '../Components/Normal/NormalComponents'
 
 const Normal = () => {
   return (
-    <>
-    <NormalComponents/>
-    
-    </>
+ <>
+ <NormalComopnets/>
+
+ </>
+
   )
 }
 

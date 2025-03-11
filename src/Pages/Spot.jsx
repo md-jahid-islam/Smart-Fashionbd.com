@@ -1,12 +1,14 @@
 import React from 'react'
-import SpotComponents from '../Components/SpotComponents'
+import SpotComponents from '../Components/Spot/SpotComponents'
 
 const Spot = () => {
   return (
-    <>
-    < SpotComponents/>
-    
-    </>
+ <>
+ 
+ <SpotComponents/>
+ 
+ </>
+
   )
 }
 

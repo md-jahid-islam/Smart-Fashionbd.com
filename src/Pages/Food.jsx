@@ -1,8 +1,14 @@
 import React from 'react'
+import FoodComponents from '../Components/Food/FoodComponents'
 
 const Food = () => {
   return (
-    <div>Food</div>
+ <>
+ 
+ <FoodComponents/>
+ 
+ </>
+     
   )
 }
 

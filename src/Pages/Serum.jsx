@@ -1,12 +1,12 @@
 import React from 'react'
-import SerumComponents from '../Components/SerumComponents'
+import SerumComponents from '../Components/Serum/SerumComponents'
 
 const Serum = () => {
   return (
-    <>
-    <SerumComponents/>
-    
-    </>
+  <>
+  <SerumComponents/>
+
+  </>
   )
 }
 

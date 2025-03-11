@@ -1,14 +1,16 @@
-import React from 'react'
-import Serum1Components from '../Components/Serum1Components'
-
-const Serum1 = () => {
+ import React from 'react'
+import Serum1Components from '../Components/Serum1/Serum1Components'
+ 
+ const Serum1 = () => {
+ 
   return (
-    <>
-    
-    <Serum1Components/>
-    
-    </>
+ 
+ <>
+ <Serum1Components/>
+ 
+ </>
+ 
   )
-}
-
-export default Serum1
+ }
+ 
+ export default Serum1

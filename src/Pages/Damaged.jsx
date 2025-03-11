@@ -1,12 +1,13 @@
 import React from 'react'
-import DamagedComponents from '../Components/DamagedComponents'
+import DamagedComponents from '../Components/Damaged/DamagedComponents'
 
 const Damaged = () => {
   return (
-    <>
-    <DamagedComponents/>
-    
-    </>
+ <>
+ <DamagedComponents/>
+
+ </>
+
   )
 }
 

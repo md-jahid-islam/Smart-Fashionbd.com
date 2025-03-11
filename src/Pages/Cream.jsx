@@ -1,13 +1,16 @@
 import React from 'react'
-import CreamComponents from '../Components/CreamComponents'
+import CreamComponents from '../Components/Cream/CreamComponents'
 
 const Cream = () => {
   return (
-    <>
-    <CreamComponents/>
-    
-    
-    </>
+<>
+
+<CreamComponents/>
+
+
+</>
+
+
   )
 }
 

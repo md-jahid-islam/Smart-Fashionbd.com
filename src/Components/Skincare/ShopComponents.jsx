@@ -2,13 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const ShopComponents = () => {
-  
-
   // Skin Concerns Data
-
   return (
     <>
-   
      <nav>
           <div className="container mx-auto px-4">
             {/* Title */}
@@ -46,6 +42,8 @@ const ShopComponents = () => {
         </nav>
     </>
   );
-};
+ };
 
-export default ShopComponents;
+ export default ShopComponents;
+
+ 

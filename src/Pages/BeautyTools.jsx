@@ -1,8 +1,14 @@
 import React from 'react'
+import BeautyToolsComponents from '../Components/BeautyTools/BeautyToolsComponents'
 
 const BeautyTools = () => {
   return (
-    <div>BeautyTools</div>
+ <>
+ 
+  <BeautyToolsComponents/>
+  
+ </>
+
   )
 }
 

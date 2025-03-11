@@ -1,12 +1,13 @@
 import React from 'react'
-import DehydaretionsComponents from '../Components/DehydaretionsComponents'
+import DehydaretionsComponents from '../Components/Deheadairation/DehydaretionsComponents'
 
 const Dehydaretions = () => {
   return (
-    <>
-    <DehydaretionsComponents/>
-    
-    </>
+ <>
+ <DehydaretionsComponents/>
+
+ </>
+
   )
 }
 

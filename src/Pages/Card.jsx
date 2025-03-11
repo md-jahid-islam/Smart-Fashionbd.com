@@ -1,13 +1,9 @@
 import React from 'react'
-import CardComponents from '../Components/CardComponents'
+import CardComponents from '../Components/Card/CardComponents'
 
 const Card = () => {
   return (
-    <>
     <CardComponents/>
-    
-    
-    </>
   )
 }
 

@@ -1,11 +1,14 @@
 import React from 'react'
-import CambinationComponents from '../Components/CambinationComponents'
+import CombinationComponents from '../Components/Combinations/CambinationComponents'
 
 const Cambination = () => {
   return (
-    <>
-    <CambinationComponents/>
-    </>
+<>
+
+<CombinationComponents/>
+
+</>
+
   )
 }
 

@@ -95,7 +95,7 @@ const Navbar = () => {
         </nav>
 
         {/* Main Navbar */}
-        <nav className="bg-gray-900 text-white">
+        <nav className="bg-[#D1D4C9] text-black font-bold">
           <div className="container mx-auto px-4 md:px-8 lg:px-16 flex justify-between items-center py-4">
             {/* Mobile Menu Button */}
             <div className="md:hidden">
@@ -127,7 +127,7 @@ const Navbar = () => {
 
           {/* Mobile Navigation */}
           <ul
-            className={`absolute md:hidden bg-gray-800 w-full left-0 transition-all duration-300 ease-in-out ${
+            className={`absolute md:hidden bg-[#FFEDFA] w-full left-0 transition-all duration-300 ease-in-out ${
               isOpen ? "top-16 opacity-100" : "top-[-400px] opacity-0"
             } flex flex-col items-center gap-6 py-5`}>
             {[

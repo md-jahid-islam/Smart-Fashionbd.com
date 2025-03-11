@@ -1,12 +1,15 @@
 import React from 'react'
-import SnailComponents from '../Components/SnailComponents'
+import SnailComponents from '../Components/Snail/SnailComponents'
 
 const Snail = () => {
   return (
-    <>
-    <SnailComponents/>
-    
-    </>
+ <>
+ 
+ <SnailComponents/>
+
+ </>
+
+
   )
 }
 

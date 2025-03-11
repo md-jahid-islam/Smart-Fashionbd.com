@@ -1,8 +1,14 @@
 import React from 'react'
+import MakupComponents from '../Components/Makup/MakupComponents'
 
 const MakeUp = () => {
   return (
-    <div>MakeUp</div>
+ <>
+ 
+ <MakupComponents/>
+ 
+ </>
+
   )
 }
 

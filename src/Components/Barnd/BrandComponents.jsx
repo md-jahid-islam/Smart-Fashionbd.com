@@ -106,7 +106,7 @@ const BrandComponents = () => {
 
     return (
       <>  
-      <section className="container mx-auto px-4 py-10">
+      <section className="container mx-auto px-4 py-10 pt-44 ">
 
             <div className='text-center'>
                 <h3 className='underline font-bold text-2xl'>Deal Of The Day</h3>

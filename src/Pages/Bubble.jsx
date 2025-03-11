@@ -1,11 +1,12 @@
 import React from 'react'
-import BubbleComponents from '../Components/BubbleComponents'
+import BubbleComponents from '../Components/Bubble/BubbleComponents'
 
 const Bubble = () => {
   return (
+
     <>
-    <BubbleComponents/>
     
+    <BubbleComponents/>
     
     </>
   )

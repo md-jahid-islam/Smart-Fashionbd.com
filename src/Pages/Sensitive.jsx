@@ -1,12 +1,14 @@
 import React from 'react'
-import SensitiveComponents from '../Components/SensitiveComponents'
+import SensitiveComponets from '../Components/Sensitive/SensitiveComponents'
 
 const Sensitive = () => {
   return (
-    <>
-    <SensitiveComponents/>
-    
-    </>
+ <>
+ 
+ <SensitiveComponets/>
+
+ </>
+
   )
 }
 

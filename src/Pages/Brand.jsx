@@ -3,10 +3,12 @@ import BrandComponents from '../Components/Barnd/BrandComponents'
 
 const Brand = () => {
   return (
-    <>
-    <BrandComponents/>
-    
-    </>
+ <>
+ 
+ <BrandComponents/>
+ 
+ </>
+
   )
 }
 

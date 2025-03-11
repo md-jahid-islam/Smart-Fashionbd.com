@@ -1,12 +1,14 @@
 import React from 'react'
-import PimplesComponents from '../Components/PimplesComponents'
+import PimplesComponents from '../Components/Pimples/PimplesComponents'
 
 const Pimples = () => {
   return (
-    <>
-    
-    < PimplesComponents/>
-    </>
+ <>
+ 
+  <PimplesComponents/>
+ 
+ </>
+
   )
 }
 

@@ -1,12 +1,14 @@
 import React from 'react'
-import CmcComponents from '../Components/CmcComponents'
+import CmcComponents from '../Components/Cmc/CmcComponents'
 
 const Cmc = () => {
   return (
-    <>
-    <CmcComponents/>
-    
-    </>
+<>
+<CmcComponents/>
+
+</>
+
+
   )
 }
 

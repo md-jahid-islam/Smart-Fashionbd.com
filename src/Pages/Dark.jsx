@@ -1,12 +1,13 @@
 import React from 'react'
-import DarkComponents from '../Components/DarkComponents'
+import DarkComponents from '../Components/Dark/DarkComponents'
 
 const Dark = () => {
   return (
-    <>
-    <DarkComponents/>
-    
-    </>
+ <>
+ <DarkComponents/> 
+
+ </>
+
   )
 }
 

@@ -1,12 +1,13 @@
 import React from 'react'
-import EyeBroComponents from '../Components/EyeBroComponents'
+import EyeBroComponents from '../Components/EyeBro/EyeBroComponents'
 
 const EyeBro = () => {
   return (
-    <>
-    <EyeBroComponents/>
-    
-    </>
+ <>
+ <EyeBroComponents/>
+
+ </>
+
   )
 }
 

@@ -1,12 +1,13 @@
 import React from 'react'
-import NatureComponents from '../Components/NatureComponents'
+import NatureComponents from '../Components/Nature/NatureComponents'
 
 const Nature = () => {
   return (
-    <>
-    <NatureComponents/>
-    </>
-  )
+ <>
+ 
+ <NatureComponents/>
+
+ </>  )
 }
 
 export default Nature

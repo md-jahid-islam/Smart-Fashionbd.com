@@ -1,12 +1,13 @@
 import React from 'react'
-import DryComponents from '../Components/DryComponents'
+import DryComponents from '../Components/Dry/DryComponents'
 
 const Dry = () => {
   return (
-    <>
-    <DryComponents/>
-    
-    </>
+<>
+<DryComponents/>
+
+</>
+
   )
 }
 

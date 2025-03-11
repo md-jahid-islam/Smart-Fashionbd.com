@@ -1,8 +1,14 @@
 import React from 'react'
+import FaragranceComponents from '../Components/Faragrance/FaragranceComponents'
 
 const Faragrance = () => {
   return (
-    <div>Faragrance</div>
+ <>
+ 
+ <FaragranceComponents/>
+ 
+ </>
+
   )
 }
 

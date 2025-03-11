@@ -1,12 +1,14 @@
 import React from 'react'
-import AntiComponents from '../Components/AntiComponents'
+import AntiComponents from '../Components/Anti/AntiComponents'
 
 const Anti = () => {
   return (
-    <>
-    <AntiComponents/>
+   <>
+   
+  <AntiComponents/>
+   
+   </>
     
-    </>
   )
 }
 

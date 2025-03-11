@@ -1,12 +1,14 @@
 import React from 'react'
-import TonerComponents from '../Components/TonerComponents'
+import TonerComponents from '../Components/Toner/TonerComponents'
 
 const Toner = () => {
   return (
-    <>
-    <TonerComponents/>
-    
-    </>
+ <>
+
+ <TonerComponents/>
+
+ </>
+
   )
 }
 

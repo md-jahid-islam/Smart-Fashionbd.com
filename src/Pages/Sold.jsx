@@ -1,13 +1,15 @@
-import React from 'react'
-import SoldComponents from '../Components/SoldComponents'
+ import React from 'react'
+import SoldComponents from '../Components/Sold/SoldComponents'
+ 
+ const Sold = () => {
+   return (
+ <>
+ 
+ <SoldComponents/>
 
-const Sold = () => {
-  return (
-    <>
-    <SoldComponents/>
-    
-    </>
-  )
-}
+ </>
 
-export default Sold
+    )
+ }
+ 
+ export default Sold

@@ -1,10 +1,10 @@
 import React from 'react'
-import BlackheadsComponents from '../Components/BlackheadsComponents'
+import BlackheadsComopnents from '../Components/Blackheads/BlackheadsComponents'
 
 const Blackheads = () => {
   return (
     <>
-    <BlackheadsComponents/>
+    <BlackheadsComopnents/>
     
     </>
   )

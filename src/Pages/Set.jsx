@@ -1,12 +1,14 @@
 import React from 'react'
-import SetComponents from '../Components/SetComponents'
+import SetComponents from '../Components/Sets/SetComponents'
 
 const Set = () => {
   return (
-    <>
-    <SetComponents/>
-    
-    </>
+ <>
+ 
+ <SetComponents/>
+
+ </>
+
   )
 }
 

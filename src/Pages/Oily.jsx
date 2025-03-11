@@ -1,12 +1,13 @@
 import React from 'react'
-import OilyComponents from '../Components/OilyComponents'
+import OilyComponents from '../Components/Oily/OilyComponents'
 
 const Oily = () => {
   return (
-    <>
-    <OilyComponents/>
-    
-    </>
+ <>
+ <OilyComponents/>
+
+ </>
+
   )
 }
 
