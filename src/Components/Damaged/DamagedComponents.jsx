@@ -7,159 +7,131 @@ const DamagedComponents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+    name: "Aromatica Reviving Rose Infusion Treatment Toner - 200ml",
+    originalPrice: 3300,
+    discountedPrice: 2500,
+    image: "/images/damege1.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "AXIS-Y The Mini Glow Set - (4pcs)",
+  originalPrice: 1400,
+  discountedPrice: 940,
+  image: "/images/damege2.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "AXIS-Y Quinoa One Step Balanced Gel Cleanser - 180ml",
+  originalPrice: 1700,
+  discountedPrice: 1490,
+  image: "/images/damege3.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "Aromatica Circulating Juniper berry & Ginger Body Oil - 100ml",
+  originalPrice: 1800,
+  discountedPrice: 1700,
+  image: "/images/damege4.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "Atomy Saengmodan Hair Tonic - 200ml",
+  originalPrice: 2100,
+  discountedPrice: 1750,
+  image: "/images/damege5.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "Derma house stretch care cream - 180ml",
+  originalPrice: 1200,
+  discountedPrice: 920,
+  image: "/images/damege6.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "Koelcia Tomato Soothing Gel - 300g",
+  originalPrice: 910,
+  discountedPrice: 860,
+  image: "/images/damege7.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "Some by mi Snail Truecica Miracle Repair Low Ph Gel Cleanser - 100ml",
+  originalPrice: 1400,
+  discountedPrice: 1290,
+  image: "/images/damege8.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
+  name: "Dabo charcoal foam cleansing brightening skin - 150ml",
+  originalPrice: 1100,
+  discountedPrice: 900,
+  image: "/images/damege9.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
+  name: "FarmStay Dr-V8 Vitamin Cleansing Foam - 100ml",
+  originalPrice: 850,
+  discountedPrice: 750,
+  image: "/images/damege10.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
+  name: "Farmstay Olive Intensive Moisture Foam Cleanser - 100ml",
+  originalPrice: 850,
+  discountedPrice: 750,
+  image: "/images/damege11.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
+  name: "I'm From Fig Scrub Mask - 120g",
+  originalPrice: 2800,
+  discountedPrice: 2590,
+  image: "/images/damege12.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
+  name: "Jigott Snail Repairing Cream -100g",
+  originalPrice: 1200,
+  discountedPrice: 950,
+  image: "/images/damege13.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
+  name: "Cos De BAHA Centella Gel Cream ( CG ) - 45ml",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/damege14.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
+  name: "Koelcia Collagen Whitening Cream - 50g",
+  originalPrice: 1000,
+  discountedPrice: 900,
+  image: "/images/damege15.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
+  name: "urito Seoul Mighty Bamboo Panthenol Cream - 100ml",
+  originalPrice: 2200,
+  discountedPrice: 1890,
+  image: "/images/damege16.png"
 },
-
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
       
     ];
 

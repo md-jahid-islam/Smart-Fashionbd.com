@@ -7,160 +7,89 @@ const NormalComopnets = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
+    name: "Dear Klairs Rich Moist Soothing Cream - 80ml",
+    originalPrice: 2500,
+    discountedPrice: 2300,
+    image: "/images/normal1.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
+  name: "Dear Klairs Midnight Blue Calming Cream - 30ml",
+  originalPrice: 2500,
+  discountedPrice: 1750,
+  image: "/images/normal2.png"
 },{
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
+  name: "Guerisson 9 Complex Cream - 70g",
+  originalPrice: 1600,
+  discountedPrice: 1450,
+  image: "/images/normal3.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+  name: "Mamonde Rose Water Toner - 250ml",
+  originalPrice: 1800,
+  discountedPrice: 1700,
+  image: "/images/normal4.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "Nacific Fresh Herb Origin Serum - 50ml",
+  originalPrice: 1800,
+  discountedPrice: 1700,
+  image: "/images/normal5.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "Tiam pore minimizing 21 cream - 60ml",
+  originalPrice: 1800,
+  discountedPrice: 1490,
+  image: "/images/normal6.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "Tiam pore minimizing 21 serum - 40ml",
+  originalPrice: 1700,
+  discountedPrice: 1490,
+  image: "/images/normal7.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "The Yeon vita7 energy peeling gel - 100ml",
+  originalPrice: 1400,
+  discountedPrice: 1290,
+  image: "/images/normal8.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "he YEON Refining Calamine Pink Spot - 15ml",
+  originalPrice: 1500,
+  discountedPrice:  1400,
+  image: "/images/normal9.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "3w clinic crystal white milky body lotion - 150gm",
+  originalPrice: 1600,
+  discountedPrice: 1090,
+  image: "/images/normal10.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "3w clinic crystal white milky cream - 50gm",
+  originalPrice: 1300,
+  discountedPrice: 950,
+  image: "/images/normal11.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
+  name: "3w clinic crystal white milky essence vitamin+ - 150ml",
+  originalPrice: 1500,
+  discountedPrice: 1300,
+  image: "/images/normal12.png"
 },
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
-},
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
-},
-
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
-      
     ];
 
     return (
