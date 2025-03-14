@@ -46,6 +46,9 @@ import Dehydaretions from './Pages/Dehydaretions';
 import About from './Pages/About';
 import ContactUs from './Pages/ContactUs';
 import PrivacyPolicy from './Pages/PrivacyPolicy';
+import ReturnPolicy from './Pages/ReturnPolicy';
+import TermsConditions from './Pages/TermsConditions';
+import TradeLicense from './Pages/TradeLicense';
 
 function App() {
 
@@ -99,8 +102,10 @@ function App() {
         <Route path="/About" element={<About/>} />   
         <Route path="/ContactUs" element={<ContactUs/>} />   
         <Route path="/PrivacyPolicy" element={<PrivacyPolicy/>} />   
-
-
+        <Route path="/ReturnPolicy" element={<ReturnPolicy/>} />   
+        <Route path="/TermsConditions" element={<TermsConditions/>} />  
+        <Route path="/TradeLicense" element={< TradeLicense/>} />   
+ 
 
         </Route>
       </Routes>

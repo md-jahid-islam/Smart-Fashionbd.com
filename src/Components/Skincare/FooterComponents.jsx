@@ -65,10 +65,10 @@
                 <h3 className="text-lg font-semibold mb-4"> Help Center</h3>
                 <ul className="space-y-2">
                 <li><a href="/About" className="hover:text-gray-300">About Us</a></li>
-                <li><a href="#" className="hover:text-gray-300">Trade License</a></li>
-                <li><a href="#" className="hover:text-gray-300">Terms & Conditions</a></li>
+                <li><a href="/TradeLicense" className="hover:text-gray-300">Trade License</a></li>
+                <li><a href="/TermsConditions" className="hover:text-gray-300">Terms & Conditions</a></li>
                 <li><a href="/PrivacyPolicy" className="hover:text-gray-300">Privacy Policy</a></li>
-                <li><a href="#" className="hover:text-gray-300">Return & Refund Policy</a></li>
+                <li><a href="/ReturnPolicy" className="hover:text-gray-300">Return & Refund Policy</a></li>
                 <li><a href="/ContactUs" className="hover:text-gray-300">Contact Us</a></li>
 
                 </ul>
