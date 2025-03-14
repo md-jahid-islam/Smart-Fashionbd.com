@@ -43,6 +43,10 @@ import Sun from './Pages/Sun';
 import Spot from './Pages/Spot';
 import Dark from './Pages/Dark';
 import Dehydaretions from './Pages/Dehydaretions';
+import About from './Pages/About';
+import ContactUs from './Pages/ContactUs';
+import PrivacyPolicy from './Pages/PrivacyPolicy';
+
 function App() {
 
   return (
@@ -91,7 +95,13 @@ function App() {
         <Route path="/Sun" element={< Sun/>} />
         <Route path="/Spot" element={<Spot/>} />
         <Route path="/Dark" element={<Dark/>} />
-        <Route path="/Dehydaretions" element={<Dehydaretions/>} />        
+        <Route path="/Dehydaretions" element={<Dehydaretions/>} />   
+        <Route path="/About" element={<About/>} />   
+        <Route path="/ContactUs" element={<ContactUs/>} />   
+        <Route path="/PrivacyPolicy" element={<PrivacyPolicy/>} />   
+
+
+
         </Route>
       </Routes>
     </BrowserRouter>

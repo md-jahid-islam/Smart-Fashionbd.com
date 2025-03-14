@@ -136,10 +136,7 @@ import "aos/dist/aos.css";
             </Link>
           </div>
         </form>
-        <div className=" bg-amber-600 rounded-3xl border-x-fuchsia-600">
-        <Link to={""}> <button className=" w-[250px] h-[60px] "> What's app </button> </Link>
-        <Link to={""}> <button className=" w-[250px] h-[60px] "> Messenger </button> </Link>
-        </div>
+      
         {/* form part end*/}
         <ToastContainer position="top-right" autoClose={3000} />
       </div>

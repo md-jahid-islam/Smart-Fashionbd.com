@@ -159,7 +159,449 @@ const CreamComponents = () => {
     originalPrice: 600,
     discountedPrice: 530,
     image: "/images/serum18.png"
-}
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+{
+  id: 2,
+  name: "vitamin",
+  originalPrice: 600,
+  discountedPrice: 530,
+  image: "/images/serum18.png"
+},
+
       
     ];
 

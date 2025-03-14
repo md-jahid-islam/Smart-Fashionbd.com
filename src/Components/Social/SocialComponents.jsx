@@ -13,7 +13,7 @@ const SocialComponents = () => {
   };
 
   return (
-    <nav className=" flex justify-center items-center pt-16 bg-gray-100">
+    <nav className=" flex justify-center items-center pt-16 ">
       <div 
         className='flex gap-4 p-4 bg-gradient-to-r from-blue-500 to-green-500 shadow-lg border-2 border-gray-200 rounded-2xl' 
         data-aos="fade-left">

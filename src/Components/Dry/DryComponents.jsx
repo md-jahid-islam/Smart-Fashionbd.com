@@ -7,159 +7,82 @@ const DryComponents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
+    name: "Ryo Hair Loss Care Shampoo (For dry Scalp) - 400ml",
+    originalPrice: 2000,
+    discountedPrice: 1900,
+    image: "/images/dry1.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
+  name: "Cerave Hydrating Cleanser (Normal to Dry) - 236ml",
+  originalPrice: 2500,
+  discountedPrice: 2050,
+  image: "/images/dry2.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+  name: "CeraVe Moisturizing Cream (Normal to Dry) - 236ml",
+  originalPrice: 2600,
+  discountedPrice: 2500,
+  image: "/images/dry3.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "CeraVe Moisturizing Cream (Normal to Dry) - 56ml",
+  originalPrice: 1700,
+  discountedPrice: 1220,
+  image: "/images/dry4.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "Cerave hydrating cleanser for normal to dry skin-87ml",
+  originalPrice: 1300,
+  discountedPrice: 1190,
+  image: "/images/dry5.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "CeraVe Moisturizing Cream (Dry to Very Dry) - 177ml",
+  originalPrice: 2000,
+  discountedPrice: 1900,
+  image: "/images/dry6.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "CeraVe Moisturizing Cream (Dry to Very Dry) - 50ml",
+  originalPrice: 1300,
+  discountedPrice: 1200,
+  image: "/images/dry7.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "Missha Super Dryness Off Cleansing Oil - 305ml",
+  originalPrice: 2000,
+  discountedPrice: 1800,
+  image: "/images/dry8.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "Neutrogena Ultra Sheer Dry Touch Sunscreen SPF 70 - 88ml",
+  originalPrice: 1800,
+  discountedPrice: 1700,
+  image: "/images/dry9.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "Cerave Moisturizing Lotion (For dry to very dry) - 236ml",
+  originalPrice: 2400,
+  discountedPrice: 2280,
+  image: "/images/dry10.png"
+},
+{
+  id: 2,
+  name: "Cerave Moisturizing Lotion (For normal to dry) - 87ml",
+  originalPrice: 1300,
+  discountedPrice: 1190,
+  image: "/images/dry11.png"
 },
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
-},
-
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
       
     ];
 

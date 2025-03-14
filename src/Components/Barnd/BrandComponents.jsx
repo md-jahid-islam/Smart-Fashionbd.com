@@ -2,106 +2,244 @@ import React from 'react';
 import { FiSearch } from 'react-icons/fi';
 import { BsCart } from 'react-icons/bs';
 
-const BrandComponents = () => {
-    const products = [
-
+ const BrandComponents = () => {
+ const products = [
 {
     id: 2,
-    name: "APLB Glutathione Niacinamide Body Wash",
-    originalPrice: 1700,
-    discountedPrice: 1500,
-    image: "/images/APLB1.png"
+    name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+    originalPrice: 1200,
+    discountedPrice: 1100,
+    image: "/images/brand1.png"
 },
-
 {
   id: 2,
-  name: "APLB Glutathione Niacinamide Beauty Tablet 500mg x 30 Tablets",
-  originalPrice: 1100,
-  discountedPrice: 950,
-  image: "/images/APLB2.png"
+  name: "Red Acne Body Wash 500 ml (17 FL Oz) [1% Salicylic Acid, Niacinamide, Panthenol,",
+  originalPrice: 2300,
+  discountedPrice: 2070,
+  image: "/images/brand2.png"
 },
-
 {
   id: 2,
-  name: "APLB Glutathione Niacinamide Sheet Mask 25ml",
-  originalPrice: 300,
-  discountedPrice: 200,
-  image: "/images/APLB3.png"
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1400,
+  discountedPrice: 1200,
+  image: "/images/brand3.png"
 },
-
 {
   id: 2,
-  name: "APLB Hyaluronic Acid Ceramide HA B5 Facial Cream 55ml",
+  name: "Red Acne Body Wash 500 ml (17 FL Oz) [1% Salicylic Acid, Niacinamide, Panthenol,",
+  originalPrice: 2240,
+  discountedPrice: 2140,
+  image: "/images/brand4.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
   originalPrice: 1200,
-  discountedPrice: 1000,
-  image: "/images/APLB4.png"
+  discountedPrice: 1100,
+  image: "/images/brand1.png"
 },
-
 {
   id: 2,
-  name: "APLB Retinol Vitamin C Vitamin E Facial Cream 55ml",
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
   originalPrice: 1200,
-  discountedPrice: 1000,
-  image: "/images/APLB5.png"
+  discountedPrice: 1100,
+  image: "/images/brand5.png"
 },
-
 {
   id: 2,
-  name: "APLB Retinol Vitamin C Vitamin E Ampoule Serum 40ml",
-  originalPrice: 1100,
-  discountedPrice: 940,
-  image: "/images/APLB6.png"
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand6.png"
 },
-
 {
   id: 2,
-  name: "APLB Glutathione Niacinamide Body Lotion",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/APLB7.png"
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand7.png"
 },
-
 {
   id: 2,
-  name: "APLB Glutathione Niacinamide Body Lotion",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/APLB8.png"
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand8.png"
 },
-
 {
   id: 2,
-  name: "APLB Glutathione Niacinamide Body Lotion",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/APLB9.png"
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand9.png"
 },
-
 {
   id: 2,
-  name: "APLB Glutathione Niacinamide Body Lotion",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/APLB10.png"
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand10.png"
 },
-
 {
   id: 2,
-  name: "APLB Glutathione Niacinamide Body Lotion",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/APLB11.png"
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand11.png"
 },
-
 {
   id: 2,
-  name: "APLB Glutathione Niacinamide Sheet Mask 25ml",
-  originalPrice: 300,
-  discountedPrice: 250,
-  image: "/images/APLB12.png"
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand12.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand13.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand14.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand15.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand16.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand17.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand18.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand19.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand20.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand21.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand22.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand23.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand24.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand25.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand26.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand27.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand28.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand29.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand30.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand31.png"
+},
+{
+  id: 2,
+  name: "Glutathione Niacinamide Body Wash | LIPO GLUTA NIAC CEN™ 5.3% 10.14 FL.OZ/Korean",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/brand32.png"
 },
 
-      
+
+
+
+     
     ];
 
     return (

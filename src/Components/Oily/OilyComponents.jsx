@@ -7,160 +7,201 @@ const OilyComponents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+    name: "Cosrx Green Tea Aqua Soothing Gel Cream - 50ml",
+    originalPrice: 2100,
+    discountedPrice: 1900,
+    image: "/images/gel1.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "Iunik Centella Calming Gel Cream - 60ml",
+  originalPrice: 1800,
+  discountedPrice: 1140,
+  image: "/images/gel2.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "I'm From Vitamin Tree Water Gel - 75g",
+  originalPrice: 2450,
+  discountedPrice: 2300,
+  image: "/images/gel3.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "Cosrx Advanced Snail Mucin Gel Cleanser - 150ml",
+  originalPrice: 1650,
+  discountedPrice: 1500,
+  image: "/images/gel4.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "Cos De BAHA Centella Gel Cream ( CG ) - 45ml",
+  originalPrice: 1200,
+  discountedPrice: 1100,
+  image: "/images/gel5.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "Welcos Body Phren Oriental Rose Shower Gel - 732g",
+  originalPrice: 2550,
+  discountedPrice: 2350,
+  image: "/images/gel6.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "Cosrx Advanced Snail Mucin Gel Cleanser - 150ml",
+  originalPrice: 1600,
+  discountedPrice: 1500,
+  image: "/images/gel7.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "Purito Oat-in calming gel cream - 100ml",
+  originalPrice: 1800,
+  discountedPrice: 1650,
+  image: "/images/gel9.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
+  name: "Cosrx Low pH Good Night Soft Peeling Gel - 120ml",
+  originalPrice: 1300,
+  discountedPrice: 1200,
+  image: "/images/gel10.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
+  name: "Isntree Onion Newpair Gel Cream - 50ml",
+  originalPrice: 2000,
+  discountedPrice: 1850,
+  image: "/images/gel11.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
+  name: "Welcos Body Phren Apple Cocktail Shower Gel -732g",
+  originalPrice: 2500,
+  discountedPrice: 2350,
+  image: "/images/gel12.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
+  name: "Welcos Body Phren Lemon Glass Shower Gel - 732g",
+  originalPrice: 2500,
+  discountedPrice: 2350,
+  image: "/images/gel13.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
+  name: "Frudia Blueberry Hydrating Cleanser Gel To Foam - 145g",
+  originalPrice: 1200,
+  discountedPrice: 1000,
+  image: "/images/gel14.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
+  name: "Beauty of Joseon Red Bean Water Gel - 100ml",
+  originalPrice: 1950,
+  discountedPrice: 1490,
+  image: "/images/gel15.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
+  name: "Thank you farmer Phyto Relieful Cica Gel Cleanser - 120ml",
+  originalPrice: 1400,
+  discountedPrice: 1290,
+  image: "/images/gel16.png"
+},
+{
+  id: 2,
+  name: "Beauty Of Joseon Apricot Blossom Peeling Gel - 100ml",
+  originalPrice: 1300,
+  discountedPrice: 1200,
+  image: "/images/gel18.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
+  name: "Kaine Rosemary Relief Gel Cleanser - 150ml",
+  originalPrice: 1500,
+  discountedPrice: 1390,
+  image: "/images/gel19.png"
 },
 
 {
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
-      
+  id: 2,
+  name: "The Saem Cell Renew Bio Micro Peel Soft Gel - 160ml",
+  originalPrice: 2000,
+  discountedPrice: 1900,
+  image: "/images/gel20.png"
+},
+
+{
+  id: 2,
+  name: "Farmstay Moisture Aloe Vera Soothing Gel - 300ml",
+  originalPrice: 1000,
+  discountedPrice: 850,
+  image: "/images/gel21.png"
+},
+
+{
+  id: 2,
+  name: "Holika Holika Aloe 99% Soothing Gel - 250ml",
+  originalPrice: 1000,
+  discountedPrice: 850,
+  image: "/images/gel22.png"
+},
+
+{
+  id: 2,
+  name: "Mary & May Sensitive Soothing Gel Cream - 70g",
+  originalPrice: 2000,
+  discountedPrice: 1900,
+  image: "/images/gel23.png"
+},
+
+{
+  id: 2,
+  name: "Skin Aqua Super Moisture Gel SPF50 + PA ++++ - 110g",
+  originalPrice: 1600,
+  discountedPrice: 1500,
+  image: "/images/gel24.png"
+},
+
+{
+  id: 2,
+  name: "The Saem Jeju Fresh Aloe Soothing Gel - 120ml",
+  discountedPrice: 1000,
+  image: "/images/gel25.png"
+},
+
+{
+  id: 2,
+  name: "3w Clinic 98% Snail Mucus Soothing Gel - 300ml",
+  discountedPrice: 900,
+  image: "/images/gel26.png"
+},
+
+{
+  id: 2,
+  name: "Heimish Rx Retinol Bakuchiol Hydrogel Eye Patch - 60ea",
+  originalPrice: 2000,
+  discountedPrice: 1800,
+  image: "/images/gel27.png"
+},
+
     ];
 
     return (
