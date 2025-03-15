@@ -49,6 +49,11 @@ import PrivacyPolicy from './Pages/PrivacyPolicy';
 import ReturnPolicy from './Pages/ReturnPolicy';
 import TermsConditions from './Pages/TermsConditions';
 import TradeLicense from './Pages/TradeLicense';
+import Moisturizer from './Pages/Moisturizer';
+import Essence from './Pages/Essence';
+import Wholesale from './Pages/Wholesale';
+import Cleanser from './Pages/Cleanser';
+import Sponsers from './Pages/Sponsers';
 
 function App() {
 
@@ -105,6 +110,14 @@ function App() {
         <Route path="/ReturnPolicy" element={<ReturnPolicy/>} />   
         <Route path="/TermsConditions" element={<TermsConditions/>} />  
         <Route path="/TradeLicense" element={< TradeLicense/>} />   
+        <Route path="/Moisturizer" element={< Moisturizer/>} />   
+        <Route path="/Cleanser" element={< Cleanser/>} />   
+        <Route path="/Essence" element={< Essence/>} />   
+        <Route path="/Wholesale" element={< Wholesale/>} />   
+        <Route path="/Sponsers" element={< Sponsers/>} />   
+
+
+
  
 
         </Route>

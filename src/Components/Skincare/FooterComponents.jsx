@@ -35,11 +35,11 @@
                 <ul className="space-y-2">
                   <li><a href="/Skincare" className="hover:text-gray-300">Skincare</a></li>
                   <li><a href="/Brand" className="hover:text-gray-300"> Shop Brand</a></li>
-                  <li><a href="#" className="hover:text-gray-300">Moisturizer</a></li>
+                  <li><a href="/Moisturizer" className="hover:text-gray-300">Moisturizer</a></li>
                   <li><a href="/Serum" className="hover:text-gray-300">Serum</a></li>
-                  <li><a href="#" className="hover:text-gray-300">Essence</a></li>
+                  <li><a href="/Essence" className="hover:text-gray-300">Essence</a></li>
                   <li><a href="/Toner" className="hover:text-gray-300">Toner</a></li>
-                  <li><a href="#" className="hover:text-gray-300">Cleanser</a></li>
+                  <li><a href="/Cleanser" className="hover:text-gray-300">Cleanser</a></li>
                   <li><a href="/Cream" className="hover:text-gray-300">Cream</a></li>
 
 
@@ -50,8 +50,8 @@
               <div>
                 <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
                 <ul className="space-y-2">
-                  <li><a href="#" className="hover:text-gray-300">Wholesale</a></li>
-                  <li><a href="#" className="hover:text-gray-300">Sponsers</a></li>
+                  <li><a href="/Wholesale" className="hover:text-gray-300">Wholesale</a></li>
+                  <li><a href="/Sponsers" className="hover:text-gray-300">Sponsers</a></li>
                   <li className=" hover:text-gray-300">Promo Codes</li>
                   <li><a href="#" className="hover:text-gray-300">Join Group</a></li>
                   <li><a href="#" className="hover:text-gray-300">Request Products</a></li>
@@ -82,12 +82,7 @@
                 </p>
                 <div className="flex items-start">
                   <div className="flex items-center bg-white rounded-lg overflow-hidden w-full">
-                    <input
-                      type="email"
-                      placeholder="Enter your email"
-                      value={email}
-                      onChange={(e) => setEmail(e.target.value)}
-                      className="px-3 py-2 w-full text-black outline-none"/>
+                    <input type="email" placeholder="Enter your email" value={email} onChange={(e) => setEmail(e.target.value)} className="px-3 py-2 w-full text-black outline-none"/>
                     <button onClick={handleSubscribe} className="bg-blue-600 px-4 py-2 text-white font-semibold hover:bg-blue-500">
                       Subscribe
                     </button>
