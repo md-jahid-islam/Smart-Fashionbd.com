@@ -7,599 +7,64 @@ const CreamComponents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
+    name: "Aveeno Sensitive Skin Face & Body Gel Cream for Kids with Prebiotic Oat, Clinically Proven",
+    originalPrice: 750,
+    discountedPrice: 660,
+    image: "/images/creame1.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
+  name: "NIVEA MEN Maximum Hydration 48-Hour Moisture Body Lotion for Dry Skin, Aloe Vera Lotion fo",
+  originalPrice: 850,
+  discountedPrice: 790,
+  image: "/images/creame2.png"
+},
+{
+  id: 2,
+  name: "Skin Care for Teenage Boys and Girls - Teen Moisturizer for Face with Tea Tree - Organic Face",
+  originalPrice: 2130,
+  discountedPrice: 1970,
+  image: "/images/creame3.png"
+},
+{
+  id: 2,
+  name: "Aveeno Sensitive Skin Face & Body Gel Cream for Kids with Prebiotic Oat, Clinically Proven",
+  originalPrice: 750,
+  discountedPrice: 660,
+  image: "/images/creame5.png"
 },{
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
+  name: "Teen Skin Face Wash | Gentle Foaming Daily Boys & Girls Facial Cleanser Lotion | Natural Non-",
+  originalPrice: 1550,
+  discountedPrice: 1460,
+  image: "/images/creame6.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
-},
-
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
+  name: "AKARY Men Tone Up Face Cream Boy Oil Control Make Up Lazy BB Cream Moisturizing Conceal",
+  originalPrice: 750,
+  discountedPrice: 660,
+  image: "/images/creame7.png"
 },{
   id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
+  name: "T is for Tame Tame Taming Gel - Boys & Girls Baby Hair Styling Gel for Frizz Control, ",
+  originalPrice: 950,
+  discountedPrice: 890,
+  image: "/images/creame8.png"
 },
 {
   id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
+  name: "Fix Your Lid-Hair Styling Fiber for Men's and Boys' Short, Choppy Hair Types with High Hold and",
+  originalPrice: 1150,
+  discountedPrice: 1090,
+  image: "/images/creame9.png"
 },
 {
   id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
-},
-{
-  id: 2,
-  name: "vitamin",
-  originalPrice: 600,
-  discountedPrice: 530,
-  image: "/images/serum18.png"
+  name: "BeYOUtiful Face Moisturizer, Preppy Skin Care for Teens, Tweens, and Kids, Hydrating Face",
+  originalPrice: 1150,
+  discountedPrice: 1060,
+  image: "/images/creame10.png"
 },
 
       

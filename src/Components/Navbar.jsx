@@ -44,7 +44,7 @@ const Navbar = () => {
           theme === "dark" ? "bg-gray-800 text-white" : "bg-gray-100 text-gray-900"} shadow-md`}>
           <div className="container mx-auto px-4 md:px-8 lg:px-16">
             <div className="flex justify-between items-center py-4">
-              <Link className="text-2xl font-bold" to="/">Korian Smart Fashion <img className=" w-56 h-24" src="/images/Logo.jpg" alt="jpg" /> </Link>
+              <Link className="text-2xl font-bold" to="/">Korian Smart Fashion </Link>
               
               <div className="relative hidden md:flex items-center w-full max-w-md">
                 <input

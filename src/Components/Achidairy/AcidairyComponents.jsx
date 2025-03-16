@@ -7,160 +7,83 @@ const AcidairyComponents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
+    name: "Anti-Aging, Clean Beauty, Cruelty-Free Korean Skincare for All Skin Types - 1.69 Fl oz",
+    originalPrice: 1120,
+    discountedPrice: 1010,
+    image: "/images/acide1.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
+  name: "7% Glycolic Acid Toner, 7% Glycolic Acid Toner for Diminishing Acne Marks, ",
+  originalPrice: 540,
+  discountedPrice: 520,
+  image: "/images/acide2.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+  name: "Glycolic Acid/AHA 30% Renewal Serum, infused with Vitamins C & E for Skin Brightening,",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/acide3.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "NOW Foods Supplements, Folic Acid 800 mcg + B-12 (Cyanocobalamin) 25 mcg,",
+  originalPrice: 2220,
+  discountedPrice: 2140,
+  image: "/images/acide4.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "L'Oreal Paris Revitalift 1.5% Pure Hyaluronic Acid Face Serum,",
+  originalPrice: 2340,
+  discountedPrice: 2210,
+  image: "/images/acide5.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "Concentrated Hyaluronic Acid Serum with Vitamin C & Centella Asiatica - Pure Organic,",
+  originalPrice: 4110,
+  discountedPrice: 3860,
+  image: "/images/acide6.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "10% Tranexamic Acid Serum, Dark Spot & Hyperpigmentation Treatment Serum,",
+  originalPrice: 2190,
+  discountedPrice: 2035,
+  image: "/images/acide7.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "mixsoon Glacier Water Hyaluronic Acid Serum - Non-greasy Hydration Booster,",
+  originalPrice: 2000,
+  discountedPrice: 1950,
+  image: "/images/acide8.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "Hyaluronic Acid 2% + B5 Serum 30ml/1oz – USA Made - All Skin Types - Hyaluronic Acid Serum",
+  originalPrice: 1620,
+  discountedPrice: 1510,
+  image: "/images/acide9.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "ANAI RUI 10% Tranexamic Acid Serum With Niacinamide,Kojic acid, Arbutin",
+  originalPrice: 1920,
+  discountedPrice: 1810,
+  image: "/images/acide10.png"
+},
+{
+  id: 2,
+  name: "The Fixer AHA Resurfacing Gel Peel, Clarifying Glycolic Acid Exfoliant Gently Regenerates and Renews, Vegan, 1 Oz",
+  originalPrice: 8675,
+  discountedPrice: 7595,
+  image: "/images/acide11.png"
 },
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
-},
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
-},
-
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
-      
     ];
 
     return (

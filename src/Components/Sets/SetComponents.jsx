@@ -3,163 +3,114 @@ import { FiSearch } from 'react-icons/fi';
 import { BsCart } from 'react-icons/bs';
 
 const SetComponents = () => {
-    const products = [
-
-{
-    id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
-},
+ const products = [
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set1.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set2.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set3.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set4.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set5.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set6.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set7.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set8.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set9.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set10.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set11.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set12.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set13.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set14.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
+  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
+  originalPrice: 5400,
+  discountedPrice: 4980,
+  image: "/images/set15.png"
 },
 
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
       
     ];
 

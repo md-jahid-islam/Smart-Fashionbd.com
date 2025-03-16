@@ -2,6 +2,7 @@ import React from 'react';
 import { FiSearch } from 'react-icons/fi';
 import { BsCart } from 'react-icons/bs';
 
+
 const PimplesComponents = () => {
     const products = [
 
@@ -32,7 +33,6 @@ const PimplesComponents = () => {
   discountedPrice: 460,
   image: "/images/serum2.png"
 },
-
 {
   id: 2,
   name: "serum",
@@ -40,7 +40,6 @@ const PimplesComponents = () => {
   discountedPrice: 460,
   image: "/images/serum3.png"
 },
-
 {
   id: 2,
   name: "serum",
@@ -48,7 +47,6 @@ const PimplesComponents = () => {
   discountedPrice: 460,
   image: "/images/serum4.png"
 },
-
 {
   id: 2,
   name: "serum",
@@ -56,7 +54,6 @@ const PimplesComponents = () => {
   discountedPrice: 460,
   image: "/images/serum5.png"
 },
-
 {
   id: 2,
   name: "serum",
@@ -72,7 +69,6 @@ const PimplesComponents = () => {
   discountedPrice: 460,
   image: "/images/serum7.png"
 },
-
 {
   id: 2,
   name: "serum",
@@ -80,7 +76,6 @@ const PimplesComponents = () => {
   discountedPrice: 460,
   image: "/images/serum8.png"
 },
-
 {
   id: 2,
   name: "serum",
@@ -96,7 +91,6 @@ const PimplesComponents = () => {
   discountedPrice: 460,
   image: "/images/serum10.png"
 },
-
 {
   id: 2,
   name: "serum",

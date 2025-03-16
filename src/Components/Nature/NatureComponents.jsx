@@ -7,160 +7,83 @@ const NatureComponents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+    name: "Nurture: A Modern Guide to Pregnancy, Birth, Early Motherhood―and Trusting Yourself and Your Body",
+    originalPrice: 1340,
+    discountedPrice: 1230,
+    image: "/images/nature1.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "Nurture Rinse Free Waterless Foaming Cleanser | Women, Camping, Elderly & Hospital Car",
+  originalPrice: 2670,
+  discountedPrice: 2530,
+  image: "/images/nature2.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "Gentle Foaming Hand Soap - Gentle Cleanser for Dry Hands - Non-Toxic Unscented Hand Soap",
+  originalPrice: 1140,
+  discountedPrice: 1030,
+  image: "/images/nature3.png"
+},
+{
+  id: 2,
+  name: "Anti Itch Body Wash, Eczema Bodywash for adults, Psoriasis Body Wash, Moisturising",
+  originalPrice: 3620,
+  discountedPrice: 3510,
+  image: "/images/nature4.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "Hydrating Face Moisturizer & Body Cream with Manuka Honey Cream & Coconut Body Oil -",
+  originalPrice: 3640,
+  discountedPrice: 3520,
+  image: "/images/nature5.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "Perineal Cleanser, Ideal for Incontinence Care and Postpartum, Removes Bacteria, 8",
+  originalPrice: 1980,
+  discountedPrice: 1760,
+  image: "/images/nature6.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "Extra Large Bath Wipes for Adults Bathing No Rinse - 80 Disposable Body Cleansing",
+  originalPrice: 3320,
+  discountedPrice: 3190,
+  image: "/images/nature7.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "NUTURE AND I: TEACHING CHILDREN TO KNOW, LEARN AND LOVE NATURE",
+  originalPrice: 150,
+  discountedPrice: 130,
+  image: "/images/nature8.png"
+},
+{
+  id: 2,
+  name: "5 Minute Christmas Devotional for Kids: Daily 5- Minute Devotionals to Nuture Your Child 's Spirit abd Create Lasting",
+  originalPrice: 310,
+  discountedPrice: 300,
+  image: "/images/nature10.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "Eczema Relief Oatmeal Soap, oatmeal bath, treatment for eczema rosacea, psoriasis",
+  originalPrice: 1140,
+  discountedPrice: 1030,
+  image: "/images/nature11.png"
 },
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
-},
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
-},
-
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
-      
     ];
 
     return (
