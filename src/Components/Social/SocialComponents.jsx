@@ -3,12 +3,13 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { FaWhatsapp, FaFacebookMessenger, FaBars, FaTimes } from "react-icons/fa";
 
-const SocialComponents = () => {
-  const [isVisible, setIsVisible] = useState(false);
+ const SocialComponents = () => {
+ const [isVisible, setIsVisible] = useState(false);
 
   React.useEffect(() => {
-    AOS.init({ duration: 1000 });
-  }, []);
+  AOS.init({ duration: 1000 });
+  }, 
+  []);
 
   const handleRedirect = (url) => {
     window.open(url);
@@ -46,13 +47,10 @@ const SocialComponents = () => {
           </div>
         )}
       </div>
-
     </div>
-    
-
     </nav>
     </>
   );
-};
+ };
 
-export default SocialComponents;
+ export default SocialComponents;

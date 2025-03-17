@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import 'aos/dist/aos.css';
 import AOS from 'aos';
 
-const CardComponents = () => {
-  React.useEffect(() => {
+ const CardComponents = () => {
+ React.useEffect(() => {
     AOS.init({ duration: 2000 });
   }, []);
 
@@ -44,6 +44,6 @@ const CardComponents = () => {
     </section>   
     </>
   );
-};
+ };
 
-export default CardComponents;
+ export default CardComponents;

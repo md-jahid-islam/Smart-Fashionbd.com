@@ -3,7 +3,7 @@ import { FiSearch } from 'react-icons/fi';
 import { BsCart } from 'react-icons/bs';
 
 const Serum1Components = () => {
-    const products = [
+ const products = [
 
 {
     id: 2,
@@ -582,14 +582,14 @@ const Serum1Components = () => {
                             <img className='w-full h-40 rounded-2xl object-cover' src={product.image} alt={product.name} />
                             <div className='absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300'>
                                 <div className='flex gap-4'>
-                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition'><FiSearch size={20} /></div>
-                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
+                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition'><FiSearch size={20} /></div>
+                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
                                 </div>
                             </div>
                         </div>
                         <div className='text-center'>
-                            <h4 className='font-semibold'>{product.name}</h4>
-                            <p className='text-gray-500 line-through'>{product.originalPrice}৳</p>
+                            <h4 className='text-black font-semibold'>{product.name}</h4>
+                            <p className='text-black line-through'>{product.originalPrice}৳</p>
                             <p className='text-red-500 font-bold'>{product.discountedPrice}৳</p>
                         </div>
                         <button className='mt-2 bg-blue-600 text-white py-2 rounded-lg flex items-center justify-center gap-2 group hover:bg-blue-700 transition'>

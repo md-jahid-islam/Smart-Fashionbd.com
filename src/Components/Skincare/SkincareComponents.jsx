@@ -2,13 +2,13 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
  const SkincareComponents = () => {
-  return (
-    <nav>
-      <div className="container mx-auto px-4">
+ return (
+       <nav>
+       <div className="container mx-auto px-4">
         {/* Title */}
         <div className="flex justify-center pt-5">
           <h2 className="text-3xl font-bold underline text-center">
-            Shop by Featured Categories!
+          Shop by Featured Categories!
           </h2>
         </div>
 
@@ -34,6 +34,6 @@ import { Link } from 'react-router-dom';
       </div>
     </nav>
   );
-};
+ };
 
-export default SkincareComponents;
+ export default SkincareComponents;

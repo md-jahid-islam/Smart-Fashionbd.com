@@ -7,159 +7,140 @@ const SomeComponents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
+    name: "IF’S Daily Essence Sun 32 SPF | Everyday UV Protection | Ultra-Light and refreshing texture",
+    originalPrice: 3550,
+    discountedPrice: 3460,
+    image: "/images/some1.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
+  name: "Aqua Bomb Sunscreen SPF 45 (Milky Sunscreen (1.68 fl.oz))",
+  originalPrice: 2750,
+  discountedPrice: 2540,
+  image: "/images/some2.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+  name: "V10 Hyal Air Fit Sunscreen - Pack of 2 - Travel Size Korean Centella Sunscreen,",
+  originalPrice: 3250,
+  discountedPrice: 3160,
+  image: "/images/some3.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "EXO SKIN SIMPLE - EXO PLUS™ Exoceuticals Anti-Aging Cream | Rejuvenation",
+  originalPrice: 4550,
+  discountedPrice: 4160,
+  image: "/images/some4.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "Heartleaf Silky Moisture Mild Sunscreen, Broad Spectrum SPF 50+ with Moisturizing ",
+  originalPrice: 1950,
+  discountedPrice: 1610,
+  image: "/images/some5.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "Wonder Black Rice Moisture Airyfit Daily Sunscreen 50ml (1.69fl.oz), Reef Safe Formula,",
+  originalPrice: 1750,
+  discountedPrice: 1560,
+  image: "/images/some8.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "Heartleaf Silky Moisture Mild Sunscreen, Broad Spectrum SPF 50+ with Moisturizing Formula,",
+  originalPrice: 2020,
+  discountedPrice: 1860,
+  image: "/images/some9.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum BROAD SPECTRUM SPF 50 + Korean",
+  originalPrice: 2550,
+  discountedPrice: 2260,
+  image: "/images/some10.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "Mad Rabbit Defend Tattoo Sunscreen- SPF 30 100mL Tube- Mineral Sunscreen Lotion",
+  originalPrice: 2950,
+  discountedPrice: 2645,
+  image: "/images/some11.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "All Around Vita C Sunscreen SPF 50/2.36 Fl Oz - Korean face with Vitamin",
+  originalPrice: 1950,
+  discountedPrice: 1760,
+  image: "/images/some12.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
+  name: "Non-Toxic Natural Mineral Sunscreen SPF 50 ",
+  originalPrice: 3950,
+  discountedPrice: 3860,
+  image: "/images/some13.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
+  name: "Daily UV Defense Sunscreen Invisible Korean Sunscreen for Face wit",
+  originalPrice: 2050,
+  discountedPrice: 1930,
+  image: "/images/some14.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
+  name: "Sunprise Mild Airy Finish Sun Milk SPF50+ / PA++++ (55ml) | Sebum-free, Non-Sticky, Long",
+  originalPrice: 1920,
+  discountedPrice: 1740,
+  image: "/images/some15.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
+  name: "Birch Juice Moisturizing Sunscreen (SPF50+ PA++++) | A moisturizing sunscreen, No",
+  originalPrice: 1850,
+  discountedPrice: 1690,
+  image: "/images/some16.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
+  name: "Relief Sun Organic sunscreen SPF50++++PA++++ Rice| Korean Skin Care",
+  originalPrice: 1870,
+  discountedPrice: 1600,
+  image: "/images/some17.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
+  name: "2PCS Relief Sun Organic Sunscreen SPF50+, Sunblock PA++++ Rice and",
+  originalPrice: 2750,
+  discountedPrice:2560,
+  image: "/images/some18.png"
 },
-
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
+  name: "Centella Sunscreen SPF50 PA++++ Calming Moisture Facial Sunscreen Centella Asiatica",
+  originalPrice: 1550,
+  discountedPrice: 1430,
+  image: "/images/some19.png"
+},
+{
+  id: 2,
+  name: "Korean Sunscreen Relief Sun Organic Sunscreen S-PF50, +PA++++ Rice And Probiotics",
+  originalPrice: 1000,
+  discountedPrice: 940,
+  image: "/images/some20.png"
+},
+{
+  id: 2,
+  name: "Onion Newpair Sunscreen 50ml, 1.69 fl.oz | SPF 40 | Korean Skincare | Hydrating Sun",
+  originalPrice: 1920,
+  discountedPrice: 1820,
+  image: "/images/some21.png"
 },
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
-},
 
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
+
       
     ];
 
@@ -177,14 +158,14 @@ const SomeComponents = () => {
                             <img className='w-full h-40 rounded-2xl object-cover' src={product.image} alt={product.name} />
                             <div className='absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300'>
                                 <div className='flex gap-4'>
-                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition'><FiSearch size={20} /></div>
-                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
+                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition'><FiSearch size={20} /></div>
+                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
                                 </div>
                             </div>
                         </div>
                         <div className='text-center'>
-                            <h4 className='font-semibold'>{product.name}</h4>
-                            <p className='text-gray-500 line-through'>{product.originalPrice}৳</p>
+                            <h4 className=' text-black font-semibold'>{product.name}</h4>
+                            <p className='text-black line-through'>{product.originalPrice}৳</p>
                             <p className='text-red-500 font-bold'>{product.discountedPrice}৳</p>
                         </div>
                         <button className='mt-2 bg-blue-600 text-white py-2 rounded-lg flex items-center justify-center gap-2 group hover:bg-blue-700 transition'>

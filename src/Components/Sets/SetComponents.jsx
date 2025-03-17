@@ -21,9 +21,9 @@ const SetComponents = () => {
 },
 {
   id: 2,
-  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
-  originalPrice: 5400,
-  discountedPrice: 4980,
+  name: "Tankaneo Womens Pajama Sets 3/4 Sleeve Oversized Tops and Elastic Waist Shorts Lounge Sets Loungewear",
+  originalPrice: 3400,
+  discountedPrice: 3180,
   image: "/images/set3.png"
 },
 {
@@ -84,9 +84,9 @@ const SetComponents = () => {
 },
 {
   id: 2,
-  name: "AUTOMET Womens 2 Piece Outfits Lounge Hoodie Sweatsuit Sets Oversized Sweatshir",
-  originalPrice: 5400,
-  discountedPrice: 4980,
+  name: "PRETTYGARDEN Women's 2 Piece Outfits Casual Short Sleeve Pullover Tops and Wide Leg Pants Lounge Sets Tracksuits",
+  originalPrice: 4500,
+  discountedPrice: 4230,
   image: "/images/set12.png"
 },
 {
@@ -110,8 +110,7 @@ const SetComponents = () => {
   discountedPrice: 4980,
   image: "/images/set15.png"
 },
-
-      
+    
     ];
 
     return (
@@ -128,14 +127,14 @@ const SetComponents = () => {
                             <img className='w-full h-40 rounded-2xl object-cover' src={product.image} alt={product.name} />
                             <div className='absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300'>
                                 <div className='flex gap-4'>
-                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition'><FiSearch size={20} /></div>
-                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
+                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition'><FiSearch size={20} /></div>
+                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
                                 </div>
                             </div>
                         </div>
                         <div className='text-center'>
-                            <h4 className='font-semibold'>{product.name}</h4>
-                            <p className='text-gray-500 line-through'>{product.originalPrice}৳</p>
+                            <h4 className=' text-black font-semibold'>{product.name}</h4>
+                            <p className='text-black line-through'>{product.originalPrice}৳</p>
                             <p className='text-red-500 font-bold'>{product.discountedPrice}৳</p>
                         </div>
                         <button className='mt-2 bg-blue-600 text-white py-2 rounded-lg flex items-center justify-center gap-2 group hover:bg-blue-700 transition'>

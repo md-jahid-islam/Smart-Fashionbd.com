@@ -7,159 +7,194 @@ const BentioComponents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
+    name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+    originalPrice: 1620,
+    discountedPrice: 1460,
+    image: "/images/Bention1.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention2.png"
 },
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention3.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention4.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention6.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention7.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention8.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention9.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention10.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention11.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention12.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention13.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention14.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention15.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention16.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention17.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention18.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention19.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention20.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention21.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention22.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention23.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention24.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention25.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention26.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention27.png"
+},
+{
+  id: 2,
+  name: "SMART SOLUTIONS Calcium Bentonite Clay Food Grade, 2 lb Pure Indian Healing Clay",
+  originalPrice: 1620,
+  discountedPrice: 1460,
+  image: "/images/Bention28.png"
 },
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
-},
-
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
       
     ];
 
@@ -177,14 +212,14 @@ const BentioComponents = () => {
                             <img className='w-full h-40 rounded-2xl object-cover' src={product.image} alt={product.name} />
                             <div className='absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300'>
                                 <div className='flex gap-4'>
-                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition'><FiSearch size={20} /></div>
-                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
+                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition'><FiSearch size={20} /></div>
+                                    <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
                                 </div>
                             </div>
                         </div>
                         <div className='text-center'>
-                            <h4 className='font-semibold'>{product.name}</h4>
-                            <p className='text-gray-500 line-through'>{product.originalPrice}৳</p>
+                            <h4 className=' text-black font-semibold'>{product.name}</h4>
+                            <p className=' text-black line-through'>{product.originalPrice}৳</p>
                             <p className='text-red-500 font-bold'>{product.discountedPrice}৳</p>
                         </div>
                         <button className='mt-2 bg-blue-600 text-white py-2 rounded-lg flex items-center justify-center gap-2 group hover:bg-blue-700 transition'>

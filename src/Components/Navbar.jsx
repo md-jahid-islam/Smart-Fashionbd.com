@@ -3,14 +3,14 @@ import { Link } from "react-router-dom";
 import { FiMenu, FiX } from "react-icons/fi";
 import { FaSearch, FaShoppingCart, FaUser, FaMoon, FaSun } from "react-icons/fa";
 
-const Navbar = () => {
+ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [lastScrollY, setLastScrollY] = useState(0);
   const [theme, setTheme] = useState(localStorage.getItem("theme") || "light");
 
-  useEffect(() => {
-    // Apply theme to entire window background
+   useEffect(() => {
+   //========Apply theme to entire window background ============//
     if (theme === "dark") {
       document.documentElement.style.backgroundColor = "#1a202c";
       document.documentElement.style.color = "#ffffff";
@@ -94,6 +94,6 @@ const Navbar = () => {
       </div>
     </>
   );
-};
+ };
 
-export default Navbar;
+ export default Navbar;

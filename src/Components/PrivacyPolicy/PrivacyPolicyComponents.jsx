@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const PrivacyPolicyComponents = () => {
-  return (
+ const PrivacyPolicyComponents = () => {
+ return (
     <>
     
     <nav>
@@ -116,7 +116,7 @@ const PrivacyPolicyComponents = () => {
                     📧 Contact: jahidulislamwebbd@gmail.com</Link>
                     </button> 
                   </div>              
-                    </div>
+                  </div>
             </div>
             
         </div>
@@ -124,6 +124,6 @@ const PrivacyPolicyComponents = () => {
     
     </>
   )
-}
+ }
 
-export default PrivacyPolicyComponents
+ export default PrivacyPolicyComponents

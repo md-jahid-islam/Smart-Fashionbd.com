@@ -1,9 +1,9 @@
 import React from 'react'
 
-const TradeLicenseComponents = () => {
-  return (
-    <div>TradeLicenseComponents</div>
-  )
-}
+ const TradeLicenseComponents = () => {
+ return (
+ <div>TradeLicenseComponents</div>
+ )
+ }
 
-export default TradeLicenseComponents
+ export default TradeLicenseComponents

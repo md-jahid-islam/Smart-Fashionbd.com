@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-const RegisterComponents = () => {
+ const RegisterComponents = () => {
  //========== useEffect duration part start =========//
   useEffect(() => {
     AOS.init({ duration: 800, easing: "ease-in-out", once: true });

@@ -124,8 +124,7 @@ import "aos/dist/aos.css";
             type="submit"
             className="w-full bg-blue-500 text-white py-2 rounded-lg hover:bg-blue-600 transition duration-300"
             data-aos="zoom-in"
-            data-aos-delay="600"
-          >
+            data-aos-delay="600">
             Login
           </button>
 

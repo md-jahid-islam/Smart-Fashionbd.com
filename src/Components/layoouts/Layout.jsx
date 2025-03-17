@@ -4,8 +4,8 @@ import { Outlet } from 'react-router'
 import FooterComponents from '../Skincare/FooterComponents'
 import SocialComponents from '../Social/SocialComponents'
 
-const Layout = () => {
-  return (
+ const Layout = () => {
+ return (
     <>
     <Navbar/>
     <Outlet/>
@@ -13,6 +13,6 @@ const Layout = () => {
     <FooterComponents/>
     </>
   )
-}
+ }
 
-export default Layout
+ export default Layout

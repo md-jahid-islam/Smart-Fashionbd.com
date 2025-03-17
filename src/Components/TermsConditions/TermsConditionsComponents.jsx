@@ -1,6 +1,6 @@
 import React from 'react'
-const TermsConditionsComponents = () => {
-  return (
+ const TermsConditionsComponents = () => {
+ return (
  <>
  <nav>
     <div className="container max-w-auto max-h-auto max-md: max-lg: max-2xl: ">
@@ -54,7 +54,7 @@ const TermsConditionsComponents = () => {
  
  </>
 
-)
-}
+ )
+ }
 
-export default TermsConditionsComponents;
+ export default TermsConditionsComponents;

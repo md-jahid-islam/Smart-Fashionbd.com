@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 
-const AboutComponents = () => {
-    return (
+ const AboutComponents = () => {
+ return (
       <>  
       <section className="container mx-auto px-4 py-10 pt-20 lg:pt-32">
         <div className='text-center lg:text-left pt-10 '>
@@ -80,6 +80,6 @@ const AboutComponents = () => {
       </section>
       </>
     );
-}
+ }
 
-export default AboutComponents;
+ export default AboutComponents;

@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const ShopComponents = () => {
-  // Skin Concerns Data
+ const ShopComponents = () => {
+ //==============Skin Concerns Data ===========//
   return (
     <>
      <nav>
@@ -24,8 +24,8 @@ const ShopComponents = () => {
                 <Link className=' ' to={"/Dry"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/dry.png" alt="img" />dry</Link>
             </div>
             <div className=' '>
-                <h2 className=' flex justify-center items-center text-2xl font-bold underline pt-5'> Shop by Skin Concern</h2>
-                <div className=' grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 pt-10 justify-center'>
+              <h2 className=' flex justify-center items-center text-2xl font-bold underline pt-5'> Shop by Skin Concern</h2>
+              <div className=' grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 pt-10 justify-center'>
               <Link className=' ' to={"/Pimples"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/pimples.png" alt="img" />pimples</Link>
               <Link className=' ' to={"/Brightening"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/brighthing.png" alt="img" />Brightening</Link>
               <Link className=' ' to={"/Anti"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/Anti.png" alt="img" />Anti</Link>

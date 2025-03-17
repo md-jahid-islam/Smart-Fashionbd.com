@@ -5,7 +5,7 @@ import { BsCart } from "react-icons/bs";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-const SerumComponents = () => {
+ const SerumComponents = () => {
   const products = [
     {
       id: 1,
@@ -48,7 +48,7 @@ const SerumComponents = () => {
   const settings = {
     dots: true,
     infinite: true,
-    speed: 500,
+    speed: 300,
     slidesToShow: 4,
     slidesToScroll: 1,
     autoplay: true,
@@ -85,33 +85,27 @@ const SerumComponents = () => {
           <div key={product.id} className="p-4">
             <div className="relative group w-56 h-96 bg-white shadow-lg rounded-3xl p-4 flex flex-col justify-between">
               <div className="relative">
-                <img
-                  className="w-full h-40 rounded-2xl object-cover"
-                  src={product.image}
-                  alt={product.name}
-                />
+                <img className="w-full h-40 rounded-2xl object-cover " src={product.image} alt={product.name}/>
+
                 <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <div className="flex gap-4">
-                    <div className="bg-white p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition">
+                    <div className="bg-white p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition">
                       <FiSearch size={20} />
                     </div>
-                    <div className="bg-white p-2 rounded-full shadow-md cursor-pointer hover:bg-gray-200 transition opacity-0 group-hover:opacity-100">
+                    <div className="bg-white p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition opacity-0 group-hover:opacity-100">
                       <span>Quick View</span>
                     </div>
                   </div>
                 </div>
               </div>
               <div className="text-center">
-                <h4 className="font-semibold">{product.name}</h4>
-                <p className="text-gray-500 line-through">{product.originalPrice}৳</p>
+                <h4 className=" text-black font-semibold">{product.name}</h4>
+                <p className="text-black line-through">{product.originalPrice}৳</p>
                 <p className="text-red-500 font-bold">{product.discountedPrice}৳</p>
               </div>
-              <button className="mt-2 bg-blue-600 text-white py-2 rounded-lg flex items-center justify-center gap-2 group hover:bg-blue-700 transition">
+              <button className="mt-2 bg-blue-600 py-2 rounded-lg flex items-center justify-center gap-2 group hover:bg-blue-700 transition">
                 Add to Cart{" "}
-                <BsCart
-                  className="opacity-0 group-hover:opacity-100 transition-opacity duration-300"
-                  size={20}
-                />
+                <BsCart className="opacity-0 group-hover:opacity-100 transition-opacity duration-300" size={20}/>
               </button>
             </div>
           </div>
@@ -119,6 +113,6 @@ const SerumComponents = () => {
       </Slider>
     </section>
   );
-};
+ };
 
-export default SerumComponents;
+ export default SerumComponents;

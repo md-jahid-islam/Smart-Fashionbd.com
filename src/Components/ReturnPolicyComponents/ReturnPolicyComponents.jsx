@@ -1,8 +1,8 @@
 import React from 'react'
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 
-const ReturnPolicyComponents = () => {
-  return (
+ const ReturnPolicyComponents = () => {
+ return (
  <>
  <nav>
     <div className="container max-w-auto max-h-auto max-md: max-lg: max-2xl: ">
@@ -48,8 +48,8 @@ const ReturnPolicyComponents = () => {
  </nav>
  
  </>
+ 
+ )
+ }
 
-)
-}
-
-export default ReturnPolicyComponents
+ export default ReturnPolicyComponents
