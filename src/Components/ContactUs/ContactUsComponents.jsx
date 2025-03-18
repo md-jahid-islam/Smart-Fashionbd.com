@@ -78,6 +78,7 @@ import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
   };
 
   return (
+    <>
     <div className="container mx-auto px-4 py-20 min-h-screen flex flex-col md:flex-row items-center justify-center gap-10 bg-gradient-to-r from-blue-100 to-indigo-200 mt-[300px] bg-fixed">
       {/* Left Side: Contact Info */}
       <div className="md:w-1/2 text-center md:text-left space-y-4">
@@ -91,7 +92,7 @@ import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
 
         {/* Social Media Links */}
         <div className="mt-6 flex justify-center md:justify-start space-x-6">
-          <a href="https://www.facebook.com/jahidul.islam.98621/" target="_blank" className="text-gray-500 hover:text-blue-600 text-2xl transform hover:scale-125 transition">
+          <a href="https://www.facebook.com/jahidul.islam.98621/" target="_blank" className=" text-xl hover:text-blue-600 transform hover:scale-125 transition">
             <FaFacebook />
           </a>
           <a href="https://x.com/JIslam24072" target="_blank" className="text-gray-500 hover:text-blue-400 text-2xl transform hover:scale-125 transition">
@@ -107,45 +108,25 @@ import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
       </div>
 
       {/* Right Side: Contact Form */}
-      <form
-        className="md:w-1/2 bg-white shadow-2xl rounded-xl p-6 w-full max-w-lg transition transform hover:-translate-y-1"
+      <form className="md:w-1/2 bg-indigo-300 shadow-2xl rounded-xl p-6 w-full max-w-lg transition transform hover:-translate-y-1"
         onSubmit={handleSubmit}>
         <div className="flex justify-center items-center pt-5">
-          <h3 className="font-bold text-2xl">Welcome to my page, contact us!</h3>
+          <h3 className="font-bold text-xl text-blue-600 ">Welcome to my page, contact us!</h3>
         </div>
 
         <label className="block font-semibold text-gray-700 mb-1">Name</label>
-        <input
-          type="text"
-          name="name"
-          value={formData.name}
-          onChange={handleChange}
-          placeholder="Enter Your Name"
-          className={`p-2 mb-3 border rounded-lg w-full focus:ring-2 focus:ring-blue-500 transition ${errors.name ? 'border-red-500' : ''}`}/>
+        <input type="text" name="name" value={formData.name} onChange={handleChange} placeholder="Enter Your Name" className={`p-2 mb-3 border rounded-lg w-full focus:ring-2 focus:ring-blue-500 transition ${errors.name ? 'border-red-500' : ''}`}/>
         {errors.name && <p className="text-red-500 text-sm">{errors.name}</p>}
 
         <label className="block font-semibold text-gray-700 mb-1">Email</label>
-        <input
-          type="email"
-          name="email"
-          value={formData.email}
-          onChange={handleChange}
-          placeholder="Enter Your Email"
-          className={`p-2 mb-3 border rounded-lg w-full focus:ring-2 focus:ring-blue-500 transition ${errors.email ? 'border-red-500' : ''}`}/>
+        <input type="email" name="email" value={formData.email} onChange={handleChange} placeholder="Enter Your Email" className={`p-2 mb-3 border rounded-lg w-full focus:ring-2 focus:ring-blue-500 transition ${errors.email ? 'border-red-500' : ''}`}/>
         {errors.email && <p className="text-red-500 text-sm">{errors.email}</p>}
 
         <label className="block font-semibold text-gray-700 mb-1">Message</label>
-        <textarea
-          name="message"
-          value={formData.message}
-          onChange={handleChange}
-          placeholder="Enter Your Message"
-          className={`p-2 mb-3 border rounded-lg w-full focus:ring-2 focus:ring-blue-500 transition ${errors.message ? 'border-red-500' : ''}`}></textarea>
+        <textarea name="message" value={formData.message} onChange={handleChange} placeholder="Enter Your Message" className={`p-2 mb-3 border rounded-lg w-full focus:ring-2 focus:ring-blue-500 transition ${errors.message ? 'border-red-500' : ''}`}></textarea>
         {errors.message && <p className="text-red-500 text-sm">{errors.message}</p>}
 
-        <button
-          type="submit"
-          className="mt-2 p-3 bg-gradient-to-r from-blue-500 to-indigo-500 text-white font-bold rounded-lg w-full hover:bg-indigo-700 transition hover:scale-105">
+        <button type="submit" className="mt-2 p-3 bg-gradient-to-r from-blue-500 to-indigo-500 text-white font-bold rounded-lg w-full hover:bg-indigo-700 transition hover:scale-105">
           Send Message
         </button>
       </form>
@@ -171,6 +152,7 @@ import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
       {/* Toast container */}
       <ToastContainer />
     </div>
+    </>
   );
  };
 

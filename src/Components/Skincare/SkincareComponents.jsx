@@ -29,7 +29,6 @@ import { Link } from 'react-router-dom';
           <Link className=' ' to={"/Toner"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/toner3.png" alt="img" />toner</Link>
           <Link className=' ' to={"/Bention"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/bention5.png" alt="img" />bention</Link>
           <Link className=' ' to={"/Cmc"} > <img className=' rounded-3xl flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 w-32 h-32 md:w-40 md:h-40 lg:w-44 lg:h-44 shadow-lg' src="/images/cmc1.png" alt="img" />cmc</Link>
-
         </div>
       </div>
     </nav>

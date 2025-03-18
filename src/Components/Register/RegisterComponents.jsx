@@ -73,42 +73,20 @@ import "react-toastify/dist/ReactToastify.css";
         <form className="mt-4 space-y-4" onSubmit={handleSubmit}>
           
           {/*workEmail part start */}
-          <input
-            type="text"
-            name="fullName"
-            placeholder="Full Name"
-            value={formData.fullName}
-            onChange={handleChange}
-            className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
-            data-aos="fade-up"
-            data-aos-delay="100"/>
+          <input type="text" name="fullName" placeholder="Full Name" value={formData.fullName} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200" data-aos="fade-up" data-aos-delay="100"/>
           {/*fullName part end */}
 
           {/*workEmail part start */}
-          <input
-            type="email"
-            name="workEmail"
-            placeholder="Work Email"
-            value={formData.workEmail}
-            onChange={handleChange}
-            className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
-            data-aos="fade-up"
-            data-aos-delay="200"/>
+          <input type="email" name="workEmail" placeholder="Work Email" value={formData.workEmail} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200" data-aos="fade-up" data-aos-delay="200"/>
           {/*workEmail part end */}
 
           {/*password part start */}
           <div className="relative" data-aos="fade-up" data-aos-delay="400">
-            <input
-              type={showPassword ? "text" : "password"}
-              name="password"
-              placeholder="Password"
-              value={formData.password}
-              onChange={handleChange}
-              className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"/>
+            <input type={showPassword ? "text" : "password"} name="password" placeholder="Password" value={formData.password} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"/>
 
            {/*span part start */}
             <span className="absolute right-3 top-4 cursor-pointer" onClick={() => setShowPassword(!showPassword)}>
-              {showPassword ? <FaEyeSlash /> : <FaEye />}
+            {showPassword ? <FaEyeSlash /> : <FaEye />}
             </span>
             {/*span part end */}
 
@@ -117,13 +95,7 @@ import "react-toastify/dist/ReactToastify.css";
 
           {/*confirmPassword part start */}
           <div className="relative" data-aos="fade-up" data-aos-delay="500">
-            <input
-              type={showConfirmPassword ? "text" : "password"}
-              name="confirmPassword"
-              placeholder="Confirm Password"
-              value={formData.confirmPassword}
-              onChange={handleChange}
-              className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"/>
+            <input type={showConfirmPassword ? "text" : "password"} name="confirmPassword" placeholder="Confirm Password" value={formData.confirmPassword} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"/>
              {/*confirmPassword part end */}
 
            {/* span part start */}
@@ -134,71 +106,31 @@ import "react-toastify/dist/ReactToastify.css";
           </div>
 
           {/*phoneNumber part start */}
-          <input
-            type="tel"
-            name="phoneNumber"
-            placeholder="Phone Number"
-            value={formData.phoneNumber}
-            onChange={handleChange}
-            className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
-            data-aos="fade-up"
-            data-aos-delay="300"/>
+          <input type="tel" name="phoneNumber" placeholder="Phone Number" value={formData.phoneNumber} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200" data-aos="fade-up" data-aos-delay="300"/>
            {/*phoneNumber part end */}
 
           {/*address part start */}
-          <input
-            type="text"
-            name="address"
-            placeholder="Address"
-            value={formData.address}
-            onChange={handleChange}
-            className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
-            data-aos="fade-up"
-            data-aos-delay="600"/>
+          <input type="text" name="address" placeholder="Address" value={formData.address} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200" data-aos="fade-up" data-aos-delay="600"/>
           {/*address part end */}
 
           {/*city part start */}
-          <input
-            type="text"
-            name="city"
-            placeholder="City"
-            value={formData.city}
-            onChange={handleChange}
-            className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
-            data-aos="fade-up"
-            data-aos-delay="700"/>
+          <input type="text" name="city" placeholder="City" value={formData.city} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"data-aos="fade-up" data-aos-delay="700"/>
           {/*city part end */}
 
           {/*country part start */}
-          <input
-            type="text"
-            name="country"
-            placeholder="Country"
-            value={formData.country}
-            onChange={handleChange}
-            className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
-            data-aos="fade-up"
-            data-aos-delay="800"/>
+          <input type="text" name="country" placeholder="Country" value={formData.country} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200" data-aos="fade-up" data-aos-delay="800"/>
           {/*country part end */}
 
           {/*zipCode part start */}
-          <input
-            type="text"
-            name="zipCode"
-            placeholder="Zip/Postal Code"
-            value={formData.zipCode}
-            onChange={handleChange}
-            className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
-            data-aos="fade-up"
-            data-aos-delay="900"/>
+          <input type="text" name="zipCode" placeholder="Zip/Postal Code" value={formData.zipCode} onChange={handleChange} className="w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"data-aos="fade-up" data-aos-delay="900"/>
             {/*zipCode part end */}
 
           {/*label part start */}
           <div className="flex items-center" data-aos="fade-up" data-aos-delay="1000">
             <input type="checkbox" name="termsAccepted" checked={formData.termsAccepted} onChange={handleChange} className="mr-2" />
             <label className="text-gray-600">
-              I agree to the <a href="#" className="text-blue-500 underline">Terms of Service</a> and{" "}
-              <a href="#" className="text-blue-500 underline">Privacy Policy</a>.
+            I agree to the <a href="#" className="text-blue-500 underline">Terms of Service</a> and{" "}
+            <a href="#" className="text-blue-500 underline">Privacy Policy</a>.
             </label>
           </div>
           {/*label part start */}
@@ -213,7 +145,7 @@ import "react-toastify/dist/ReactToastify.css";
           {/*Login text link part start */}
           <div className="mt-3 text-center" data-aos="fade-up" data-aos-delay="1200">
             <Link to="/Login" className="text-blue-500">
-              Already have an account? <span className="underline">Login</span>
+            Already have an account? <span className="underline">Login</span>
             </Link>
           </div>
          {/*Login text link part start */}

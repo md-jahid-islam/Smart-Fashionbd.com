@@ -7,160 +7,125 @@ const BlackheadsComopnents = () => {
 
 {
     id: 2,
-    name: "serum",
-    originalPrice: 550,
-    discountedPrice: 460,
-    image: "/images/serum16.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
-},{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum1.png"
-},
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum2.png"
+    name: "Cosrx Bha Blackhead Power Liquid - 100ml",
+    originalPrice: 1550,
+    discountedPrice: 1460,
+    image: "/images/blackhead1.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum3.png"
+  name: "Innisfree Super Volcanic Pore Clay Mask - 100ml",
+  originalPrice: 1590,
+  discountedPrice: 1520,
+  image: "/images/blackhead3.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum4.png"
+  name: "Some by mi Bye Bye Blackhead 30 Days Miracle Green Tea Tox Bubble Cleanser - 120g",
+  originalPrice: 1390,
+  discountedPrice: 1260,
+  image: "/images/blackhead4.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum5.png"
+  name: "Cosrx Bha Blackhead Power Liquid - 100ml",
+  originalPrice: 1550,
+  discountedPrice: 1460,
+  image: "/images/blackhead5.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum6.png"
+  name: "Dear Klairs Gentle Black Sugar Facial Polish - 110g",
+  originalPrice: 1950,
+  discountedPrice: 1860,
+  image: "/images/blackhead6.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum7.png"
+  name: "Cosrx Pure Fit Cica Clear Cleansing Oil - 200ml",
+  originalPrice: 1950,
+  discountedPrice: 1760,
+  image: "/images/blackhead7.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum8.png"
+  name: "CeraVe Acne Control Cleanser - 237ml",
+  originalPrice: 2780,
+  discountedPrice: 2560,
+  image: "/images/blackhead8.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum9.png"
+  name: "Innisfree Volcanic BHA Pore Cleansing Foam - 150ml",
+  originalPrice: 1950,
+  discountedPrice: 1860,
+  image: "/images/blackhead10.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum10.png"
+  name: "Pyunkang Yul Acne Facial Cleanser - 120ml",
+  originalPrice: 1150,
+  discountedPrice: 1060,
+  image: "/images/blackhead11.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum11.png"
+  name: "Numbuzin Easy Peasy Cleansing Oil - 200ml",
+  originalPrice: 1950,
+  discountedPrice: 1760,
+  image: "/images/blackhead12.png"
+},
+
+
+{
+  id: 2,
+  name: "Isntree Hyper Acid4 Aha Bha Lha 30 Serum - 20ml",
+  originalPrice: 1590,
+  discountedPrice: 1460,
+  image: "/images/blackhead13.png"
+},
+{
+  id: 2,
+  name: "Eshumi 24K Real Gold Peel Off Pack - 100g",
+  originalPrice: 1750,
+  discountedPrice: 1660,
+  image: "/images/blackhead14.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum12.png"
+  name: "Mary & May Blackberry Complex Glow Wash Off Pack - 125g",
+  originalPrice: 2250,
+  discountedPrice: 2210,
+  image: "/images/blackhead15.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum13.png"
+  name: "Anua Heartleaf 77% Clear Pad (70pcs) - 160ml",
+  originalPrice: 2050,
+  discountedPrice: 1860,
+  image: "/images/blackhead16.png"
 },
 
 {
   id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum14.png"
+  name: "Numbuzin No.3 Pore & Makeup Cleansing Balm With Green Tea And Charcoal - 85g",
+  originalPrice: 1850,
+  discountedPrice: 1630,
+  image: "/images/blackhead17.png"
 },
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum15.png"
-},
 
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum16.png"
-},
-
-{
-  id: 2,
-  name: "serum",
-  originalPrice: 550,
-  discountedPrice: 460,
-  image: "/images/serum17.png"
-},
-
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 600,
-    discountedPrice: 530,
-    image: "/images/serum18.png"
-}
-      
     ];
 
     return (

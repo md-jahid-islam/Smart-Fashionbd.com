@@ -1,10 +1,11 @@
  import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
  import { useState } from "react";
+import { Link } from "react-router-dom";
 
  const FooterComponents = () => {
   const [email, setEmail] = useState("");
   const [error, setError] = useState("");
-
+  
   const handleSubscribe = () => {
     if (!email) {
       setError(" email is required");
@@ -31,8 +32,8 @@
 
               {/* Quick Links */}
               <div>
-                <h3 className="text-lg font-semibold mb-4">Top Categories</h3>
-                <ul className="space-y-2">
+                <h3 className="text-lg font-semibold mb-4 ">Top Categories</h3>
+                <ul className="space-y-2 ">
                   <li><a href="/Skincare" className="hover:text-gray-300">Skincare</a></li>
                   <li><a href="/Brand" className="hover:text-gray-300"> Shop Brand</a></li>
                   <li><a href="/Moisturizer" className="hover:text-gray-300">Moisturizer</a></li>
@@ -48,7 +49,7 @@
 
               {/* Customer Support */}
               <div>
-                <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
+                <h3 className="text-lg font-semibold mb-4 ">Quick Links</h3>
                 <ul className="space-y-2">
                   <li><a href="/Wholesale" className="hover:text-gray-300">Wholesale</a></li>
                   <li><a href="/Sponsers" className="hover:text-gray-300">Sponsers</a></li>
@@ -81,7 +82,7 @@
                   Get the latest updates and offers directly in your inbox.
                 </p>
                 <div className="flex items-start">
-                  <div className="flex items-center bg-white rounded-lg overflow-hidden w-full">
+                  <div className="flex items-center bg-white rounded-lg overflow-hidden w-full ">
                     <input type="email" placeholder="Enter your email" value={email} onChange={(e) => setEmail(e.target.value)} className="px-3 py-2 w-full text-black outline-none"/>
                     <button onClick={handleSubscribe} className="bg-blue-600 px-4 py-2 text-white font-semibold hover:bg-blue-500">
                       Subscribe

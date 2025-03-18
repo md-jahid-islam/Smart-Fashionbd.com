@@ -9,7 +9,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
         <div className='text-center lg:text-left pt-10 '>
             <h3 className='underline font-bold text-5xl mb-10 '>About Us</h3>
             
-            <div className="space-y-6 text-gray-700">
+            <div className="space-y-6 text-xl ">
               <div>
                 <h2 className="text-3xl mb-2 font-bold ">Introduction:</h2>
                 <p className=' font-bold'>Welcome to the "Korean Smart Fashion Bangladesh" online shop. Here you can buy high-quality cosmetics and skincare products at retail prices. "Korean Smart Fashion Bangladesh" supplies all types of cosmetics and skincare products at retail prices across the country.</p>
@@ -60,17 +60,17 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
                 <p className=' font-bold '>Refunds are not accepted after the correct product is delivered. Approved refunds are completed within 3 business days via the original payment method.</p>
               </div>
 
-              <div className="mt-4 space-y-1">
+              <div className="mt-4 space-y-1 text-xl ">
                 <h2 className="font-bold text-3xl">Contact Us:</h2>
-                <Link to="#"><h2 className="text-blue-500 hover:underline font-bold">Phone: 01540587085</h2></Link>
-                <Link to="#"><h2 className="text-blue-500 hover:underline font-bold ">Email: jahidulislamwebbd@gmail.com</h2></Link>
-                <h2 className="text-gray-700 font-bold ">House# 5 (6th Floor), Road# 15, Dhaka, Uttara Azampur, Sector 6, Dhaka, Bangladesh</h2>
-                <h2 className="text-gray-700 font-bold ">10:00 AM - 9:00 PM | Saturday - Sunday - Thursday</h2>
+                <Link to="#"><h2 className=" hover:underline font-bold">Phone: 01540587085</h2></Link>
+                <Link to="#"><h2 className=" hover:underline font-bold ">Email: jahidulislamwebbd@gmail.com</h2></Link>
+                <h2 className=" font-bold ">House# 5 (6th Floor), Road# 15, Dhaka, Uttara Azampur, Sector 6, Dhaka, Bangladesh</h2>
+                <h2 className=" font-bold ">10:00 AM - 9:00 PM | Saturday - Sunday - Thursday</h2>
               </div>
             </div>
 
             {/* Social Media Links */}
-            <div className="mt-8 flex justify-center lg:justify-start space-x-6">
+            <div className="mt-8 flex justify-center lg:justify-start space-x-6 ">
               <a href="https://www.facebook.com/jahidul.islam.98621/" target="_blank" className="text-gray-400 hover:text-blue-600 text-xl"><FaFacebook /></a>
               <a href="https://x.com/JIslam24072" target="_blank" className="text-gray-400 hover:text-blue-400 text-xl"><FaTwitter /></a>
               <a href="https://www.instagram.com/jahidulislamwebbd/" target="_blank" className="text-gray-400 hover:text-pink-500 text-xl"><FaInstagram /></a>

@@ -47,11 +47,7 @@ import { FaSearch, FaShoppingCart, FaUser, FaMoon, FaSun } from "react-icons/fa"
               <Link className="text-2xl font-bold" to="/">Korian Smart Fashion </Link>
               
               <div className="relative hidden md:flex items-center w-full max-w-md">
-                <input
-                  className="w-full h-10 pl-10 pr-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
-                  type="text"
-                  placeholder="Search your choice products"
-                />
+                <input className="w-full h-10 pl-10 pr-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" type="text" placeholder="Search your choice products"/>
                 <FaSearch className="absolute left-3 text-gray-500" size={18} />
               </div>
               <ul className="flex items-center gap-4">

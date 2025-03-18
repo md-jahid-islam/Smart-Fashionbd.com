@@ -16,7 +16,7 @@ const DealDayComponents = () => {
             id: 2,
             name: "Koelcia 24K Gold Whitening Essence 35ml",
             originalPrice: 3100,
-             discountedPrice: 2600,
+            discountedPrice: 2600,
             image: "/images/acid1.png"
         },
         {
@@ -145,132 +145,7 @@ const DealDayComponents = () => {
     discountedPrice: 2600,
     image: "/images/banilacoclean.png"
 },
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention1.png"
-},
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention2.png"
-},
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention3.png"
-},
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention4.png"
-},
-{
-    id: 2,
-    name: "bention5",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention5.png"
-},
-{
-    id: 2,
-    name: "bention6",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention6.png"
-},
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention9.png"
-},
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention7.png"
-},
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention11.png"
-},
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention10.png"
-},
-{
-    id: 2,
-    name: "bention",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bention12.png"
-},
-{
-    id: 2,
-    name: "black aqua sun",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/blackaquasun.png"
-},
-{
-    id: 2,
-    name: "black facial",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/blackfacial.png"
-},
-{
-    id: 2,
-    name: "black snail cream",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/blacksnailcream.png"
-},
-{
-    id: 2,
-    name: "blemis",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/blemis.png"
-},
-{
-    id: 2,
-    name: "blue calming cream",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/bluecalmingcream.png"
-},
-{
-    id: 2,
-    name: "boosting",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/boosting1.png"
-},
-{
-    id: 2,
-    name: "boosting",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/boosting2.png"
-},
+
 {
     id: 2,
     name: "boosting",
@@ -558,76 +433,6 @@ const DealDayComponents = () => {
     originalPrice: 3100,
     discountedPrice: 2600,
     image: "/images/facefoam.png"
-},
-{
-    id: 2,
-    name: "face mask",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/facemask.png"
-},
-{
-    id: 2,
-    name: "face water cleansing",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/faceshopwatercleansing.png"
-},
-{
-    id: 2,
-    name: "facial wash",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/facialwash.png"
-},
-{
-    id: 2,
-    name: "facila toner",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/facilatoner.png"
-},
-{
-    id: 2,
-    name: "fame eye cream",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/fameeyecream.png"
-},
-{
-    id: 2,
-    name: "eye creams",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/eyecreams.png"
-},
-{
-    id: 2,
-    name: "farmer rice",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/farmerrice.png"
-},
-{
-    id: 2,
-    name: "farmsty",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/farmsty.png"
-},
-{
-    id: 2,
-    name: "fitread",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/fitread.2.png"
-},
-{
-    id: 2,
-    name: "fitread",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/fitread.png"
 },
 {
     id: 2,
@@ -936,233 +741,11 @@ const DealDayComponents = () => {
     originalPrice: 3100,
     discountedPrice: 2600,
     image: "/images/shampoo14.png"
-},
-{
-    id: 2,
-    name: "shampoo",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/shampoo15.png"
-},
-{
-    id: 2,
-    name: "shampoo",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/shampoo16.png"
-},
-{
-    id: 2,
-    name: "shampoo",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/shampoo17.png"
-},
-{
-    id: 2,
-    name: "shampoo",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/shampoo18.png"
-},
-{
-    id: 2,
-    name: "sheet",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sheet1.png"
-},
-{
-    id: 2,
-    name: "nuture",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/nuture.png"
-},
-{
-    id: 2,
-    name: "nature",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/nature1.png"
-},
-{
-    id: 2,
-    name: "paxmoly",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/paxmoly7.png"
-},
-{
-    id: 2,
-    name: "paxmoly",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/paxmoly5.png"
-},
-{
-    id: 2,
-    name: "nature",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/nature.png"
-},
-{
-    id: 2,
-    name: "nature ",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/nature3.png"
-},
-{
-    id: 2,
-    name: "paxmoly",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/paxmoly3.png"
-},
-{
-    id: 2,
-    name: "paxmoly",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/paxmoly4.png"
-},
-{
-    id: 2,
-    name: "paxmoly",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/paxmoly8.png"
-},
-{
-    id: 2,
-    name: "paxmoly",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/paxmoly2.png"
-},
-{
-    id: 2,
-    name: "sold",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold1.png"
-},
-{
-    id: 2,
-    name: "paxmoly",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/paxmoly6.png"
-},
-{
-    id: 2,
-    name: "sold",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold3.png"
-},
-{
-    id: 2,
-    name: "sold4",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold4.png"
-},
-{
-    id: 2,
-    name: "sold",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold5.png"
-},
-{
-    id: 2,
-    name: "sold",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold17.png"
-},
-{
-    id: 2,
-    name: "sold",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold18.png"
-},
-{
-    id: 2,
-    name: "sold19",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold19.png"
-},
-{
-    id: 2,
-    name: "sold6",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold6.png"
-},
-{
-    id: 2,
-    name: "sold",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold7.png"
-},
-{
-    id: 2,
-    name: "set",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/set4.png"
-},
-{
-    id: 2,
-    name: "sold",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/sold10.png"
-},
-{
-    id: 2,
-    name: "set",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/set3.png"
-},
-{
-    id: 2,
-    name: "teatre mask",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/teatremask.png"
-},
-{
-    id: 2,
-    name: "therapy",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/therapy.png"
-},
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/vitamin2.png"
-},
-{
-    id: 2,
-    name: "vitamin",
-    originalPrice: 3100,
-    discountedPrice: 2600,
-    image: "/images/vitamin3.png"
 }
+
+
       
-    ];
+ ];
 
     return (
         <section className="container mx-auto px-4 py-10 pt-44 ">
@@ -1175,16 +758,16 @@ const DealDayComponents = () => {
                         <div className='relative'>
                             <img className='w-full h-40 rounded-2xl object-cover' src={product.image} alt={product.name} />
                             <div className='absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300'>
-                                <div className='flex gap-4'>
-                                <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition'><FiSearch size={20} /></div>
-                                <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
-                                </div>
+                            <div className='flex gap-4'>
+                            <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition'><FiSearch size={20} /></div>
+                            <div className='bg-white  p-2 rounded-full shadow-md cursor-pointer hover:bg-amber-700 transition opacity-0 group-hover:opacity-100'><span>Quick View</span></div>
+                            </div>
                             </div>
                         </div>
                         <div className='text-center'>
-                            <h4 className=' text-black font-semibold'>{product.name}</h4>
-                            <p className='text-black line-through'>{product.originalPrice}৳</p>
-                            <p className='text-red-500 font-bold'>{product.discountedPrice}৳</p>
+                        <h4 className=' text-black font-semibold'>{product.name}</h4>
+                        <p className='text-black line-through'>{product.originalPrice}৳</p>
+                        <p className='text-red-500 font-bold'>{product.discountedPrice}৳</p>
                         </div>
                         <button className='mt-2 bg-blue-600 text-white py-2 rounded-lg flex items-center justify-center gap-2 group hover:bg-blue-700 transition'>
                         Add to Cart <BsCart className='opacity-0 group-hover:opacity-100 transition-opacity duration-300' size={20} />

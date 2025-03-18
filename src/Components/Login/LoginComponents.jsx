@@ -66,11 +66,7 @@ import "aos/dist/aos.css";
         data-aos="fade-up">
 
         {/* h2 part start*/}
-        <h2
-          className="text-2xl font-bold text-center text-gray-800 mb-6"
-          data-aos="fade-down">
-          Login
-        </h2>
+        <h2 className="text-2xl font-bold text-center text-gray-800 mb-6" data-aos="fade-down"> Login </h2>
         {/* h2 part end*/}
 
         {/* form part start*/}
@@ -80,31 +76,18 @@ import "aos/dist/aos.css";
             <label className="block text-gray-700 font-medium">Email</label>
 
            {/* email part start*/}
-            <input
-              type="email"
-              className="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
-              placeholder="Enter your email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}/>
+            <input type="email" className="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none" placeholder="Enter your email" value={email} onChange={(e) => setEmail(e.target.value)}/>
              {/* email part end*/}
 
           </div>
 
           {/* Password Field part start */}
-          <div
-            className="mb-4 relative"
-            data-aos="fade-left"
-            data-aos-delay="400">
+          <div className="mb-4 relative" data-aos="fade-left" data-aos-delay="400">
             <label className="block text-gray-700 font-medium">Password</label>
 
             {/* relative password part start */}
             <div className="relative">
-              <input
-                type={showPassword ? "text" : "password"}
-                className="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
-                placeholder="Enter your password"
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}/>
+              <input type={showPassword ? "text" : "password"} className="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none" placeholder="Enter your password" value={password} onChange={(e) => setPassword(e.target.value)}/>
                 
             {/* span part start */}
               <span
@@ -120,14 +103,9 @@ import "aos/dist/aos.css";
           {/* Password Field part start */}
 
           {/* Submit Button */}
-          <button
-            type="submit"
-            className="w-full bg-blue-500 text-white py-2 rounded-lg hover:bg-blue-600 transition duration-300"
-            data-aos="zoom-in"
-            data-aos-delay="600">
+          <button type="submit" className="w-full bg-blue-500 text-white py-2 rounded-lg hover:bg-blue-600 transition duration-300" data-aos="zoom-in" data-aos-delay="600">
             Login
           </button>
-
           <div className="mt-4 text-center" data-aos="fade-up" data-aos-delay="800">
             <Link to="/Register">
               <h2 className="text-gray-700">Don't have an account?</h2>
